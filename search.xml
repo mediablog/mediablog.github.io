@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>邀请机制</title>
+      <link href="/2020/04/16/invitation/"/>
+      <url>/2020/04/16/invitation/</url>
+      
+        <content type="html"><![CDATA[<h2 id="邀请机制"><a href="#邀请机制" class="headerlink" title="邀请机制"></a>邀请机制</h2><ol><li>购买密钥后可以获得邀请码</li><li>账户第一次激活使用邀请码才有效，激活后无法再次使用邀请码</li><li>使用邀请码激活，如果是月卡，双方各奖励10天，如果是年卡，双方各奖励30天</li><li>举例：张三买了一张月卡，使用了李四的邀请码激活，则李四的账户有效期增加10天，张三的有效期也增加10天</li><li>如果账户过期，邀请码也失效</li><li>公众号内分享的密钥没有邀请码</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> other </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>视频教程</title>
       <link href="/2020/04/16/videoteach/"/>
       <url>/2020/04/16/videoteach/</url>
