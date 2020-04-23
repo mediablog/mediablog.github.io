@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>视频片头片尾剪辑器</title>
+      <link href="/2020/04/24/videocut/"/>
+      <url>/2020/04/24/videocut/</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件功能介绍"><a href="#软件功能介绍" class="headerlink" title="软件功能介绍"></a>软件功能介绍</h3><ol><li>提取背景音乐</li><li>格式转换</li><li>去除片头</li><li>去除片尾</li><li>添加片头</li><li>添加片尾</li><li>可以设置输出目录</li></ol><h3 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h3><ol><li><p>打开文件采用文件夹的方式，选择一个文件夹，自动读取文件夹内的视频。文件夹支持一级子文件夹，如果你文件夹内嵌套了多级目录，那么超过一级子目录的文件不会读取。也支持拖动文件的方式添加视频。</p></li><li><p>如果不设置输出目录，那么输出的视频出现在视频同级目录的result文件夹中。</p></li><li><p>增加了结束任务关机的功能。</p></li><li><p>后续会丰富帮助文档内容。</p></li><li><p>本次片头片尾增加了一个功能，支持添加图片，图片播放时间为两秒。</p></li><li><p>不勾选强制转换的情况下相同的格式会跳过<br>比如 有mp4 格式，也有flv 格式，格式转换填写 mp4<br>不勾选强制转换的情况下，mp4 格式的视频会跳过。</p></li></ol><h3 id="软件界面展示"><a href="#软件界面展示" class="headerlink" title="软件界面展示"></a>软件界面展示</h3><h3 id="软件下载地址："><a href="#软件下载地址：" class="headerlink" title="软件下载地址："></a>软件下载地址：</h3><h4 id="百度云"><a href="#百度云" class="headerlink" title="百度云"></a>百度云</h4><p>链接: <a href="https://pan.baidu.com/s/1q6yFpqn9faeqHgYFiokYPA" target="_blank" rel="noopener">https://pan.baidu.com/s/1q6yFpqn9faeqHgYFiokYPA</a>  密码:pgkl</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 视频片头片尾剪辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频剪辑免费版</title>
+      <link href="/2020/04/23/videofree/"/>
+      <url>/2020/04/23/videofree/</url>
+      
+        <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>本软件永久免费，不需要网络，单机就能使用</p><p>本软件包含以下几个功能</p><ol><li>提取背景音乐</li><li>格式转换</li><li>去除片头</li><li>去除片尾</li><li>添加片头</li><li>添加片尾</li><li>可以设置输出目录</li></ol><p>格式转换说明：<br>不勾选强制转换的情况下相同的格式会跳过<br>比如 有mp4 格式，也有flv 格式，格式转换填写 mp4<br>不勾选强制转换的情况下，mp4 格式的视频会跳过。</p><p>其他说明：<br>打开文件采用文件夹的方式，选择一个文件夹，自动读取文件夹内的视频。文件夹支持一级子文件夹，如果你文件夹内嵌套了多级目录，那么超过一级子目录的文件不会读取。也支持拖动文件的方式添加视频。</p><p>如果不设置输出目录，那么输出的视频出现在视频同级目录的result文件夹中。</p><h2 id="软件界面展示"><a href="#软件界面展示" class="headerlink" title="软件界面展示"></a>软件界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-04-23-AB06D5F3A5586B134405DD5B351B1321.png" alt="AB06D5F3A5586B134405DD5B351B1321"></p><h2 id="软件下载地址："><a href="#软件下载地址：" class="headerlink" title="软件下载地址："></a>软件下载地址：</h2><h4 id="百度云"><a href="#百度云" class="headerlink" title="百度云"></a>百度云</h4><p><a href="https://pan.baidu.com/s/1Yp5-Bc9-Q9Ws7gMdUZUpGg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Yp5-Bc9-Q9Ws7gMdUZUpGg</a>  密码:uqob</p><h4 id="蓝奏云"><a href="#蓝奏云" class="headerlink" title="蓝奏云"></a>蓝奏云</h4><p><a href="https://zimeiti.lanzous.com/b00zfmz6j" target="_blank" rel="noopener">https://zimeiti.lanzous.com/b00zfmz6j</a>  密码:ga0z</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 视频剪辑免费版 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>邀请机制</title>
       <link href="/2020/04/16/invitation/"/>
       <url>/2020/04/16/invitation/</url>
@@ -58,7 +108,7 @@
       <link href="/2020/04/16/contract/"/>
       <url>/2020/04/16/contract/</url>
       
-        <content type="html"><![CDATA[<h2 id="公众号"><a href="#公众号" class="headerlink" title="公众号"></a>公众号</h2><p><img src="https://pic3.zhimg.com/80/v2-42b903530fb85e121b4163b9b9e0cf3e_1440w.jpg" alt="qrcode_min.jpg"></p><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><h2 id="微信"><a href="#微信" class="headerlink" title="微信"></a>微信</h2><p>微信号：cywt123<br><img src="https://pic4.zhimg.com/80/v2-ca3069c3af45a8eef4f9f8331aac5723_1440w.jpg" alt="wx"></p><h2 id="软件定制"><a href="#软件定制" class="headerlink" title="软件定制"></a>软件定制</h2><p>软件支持功能定制，需额外收费</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="公众号"><a href="#公众号" class="headerlink" title="公众号"></a>公众号</h2><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt="公众号"></p><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><h2 id="微信"><a href="#微信" class="headerlink" title="微信"></a>微信</h2><p>微信号：cywt123<br><img src="http://cdn.qiniu.freetop.ren/weixin.jpg" alt="微信"></p><h2 id="软件定制"><a href="#软件定制" class="headerlink" title="软件定制"></a>软件定制</h2><p>软件支持功能定制，需额外收费</p>]]></content>
       
       
       <categories>
