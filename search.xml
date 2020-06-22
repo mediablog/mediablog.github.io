@@ -20,6 +20,12 @@
       
         <tags>
             
+            <tag> 深度处理 </tag>
+            
+            <tag> 关键帧 </tag>
+            
+            <tag> 滤镜 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 背景图片 </tag>
@@ -27,12 +33,6 @@
             <tag> 模糊拓边 </tag>
             
             <tag> 镜像 </tag>
-            
-            <tag> 深度处理 </tag>
-            
-            <tag> 关键帧 </tag>
-            
-            <tag> 滤镜 </tag>
             
         </tags>
       
@@ -124,7 +124,7 @@
       <link href="/2020/05/02/videocollector/"/>
       <url>/2020/05/02/videocollector/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,西瓜,好看,皮皮虾,最右,不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>可以设置视频下载目录，如不设置，默认下载到桌面</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>链接:<a href="https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng" target="_blank" rel="noopener">https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng</a>  密码:34qd</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-06-22-15928159133627.jpg" alt=""></p><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,西瓜,好看,皮皮虾,最右,不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>下载目录为软件所在的download目录</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>链接:<a href="https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng" target="_blank" rel="noopener">https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng</a>  密码:34qd</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-06-22-15928159133627.jpg" alt=""></p><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p>]]></content>
       
       
       <categories>
@@ -356,6 +356,14 @@
             
             <tag> 自媒体 </tag>
             
+            <tag> 画中画 </tag>
+            
+            <tag> 背景图片 </tag>
+            
+            <tag> 模糊拓边 </tag>
+            
+            <tag> 镜像 </tag>
+            
             <tag> 剪辑 </tag>
             
             <tag> 水印 </tag>
@@ -368,15 +376,7 @@
             
             <tag> 背景音乐 </tag>
             
-            <tag> 画中画 </tag>
-            
-            <tag> 背景图片 </tag>
-            
             <tag> 批量合成 </tag>
-            
-            <tag> 模糊拓边 </tag>
-            
-            <tag> 镜像 </tag>
             
         </tags>
       
