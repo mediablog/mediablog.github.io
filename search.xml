@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>videoFission</title>
+      <link href="/2020/08/22/videofission/"/>
+      <url>/2020/08/22/videofission/</url>
+      
+        <content type="html"><![CDATA[<hr><p>title: 裂变利器<br>date: 2020-08-22 16:32:26<br>top: true<br>cover: true<br>summary: 视频裂变<br>keywords: 视频裂变<br>categories: 软件<br>tags:</p><ul><li>视频裂变</li><li>镜像</li><li>分割</li><li>转场</li><li>特效</li><li>倍速</li><li>背景音乐</li><li>定制片头</li></ul><hr><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>做视频自媒体的必备利器，将一个视频裂变成多个视频，每个都不重复，每个视频具有不同的片头，配音，字幕，特效，背景音乐等。</p><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/pages?sort_id=2730283&doc_id=879017" target="_blank" rel="noopener">详细文档</a></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg" target="_blank" rel="noopener">https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg</a>  密码:sek9</p><h3 id="功能点介绍"><a href="#功能点介绍" class="headerlink" title="功能点介绍"></a>功能点介绍</h3><h4 id="裂变数量"><a href="#裂变数量" class="headerlink" title="裂变数量"></a>裂变数量</h4><p>表示一个视频裂变成n个，比如一共处理3个视频，裂变数量为2， 那么最终生成6个视频</p><h4 id="水平镜像"><a href="#水平镜像" class="headerlink" title="水平镜像"></a>水平镜像</h4><p>将视频进行水平镜像处理</p><h4 id="分割"><a href="#分割" class="headerlink" title="分割"></a>分割</h4><p>将视频分段后重新随机合并，参数是分段的间隔</p><p><strong>注意</strong> 如果选择了分割和转场，一定要选择背景音乐</p><h4 id="转场"><a href="#转场" class="headerlink" title="转场"></a>转场</h4><p>上面进行分割后才能添加转场效果，否则勾选也无效</p><h4 id="贴图"><a href="#贴图" class="headerlink" title="贴图"></a>贴图</h4><p>就是图片水印，支持小图标和大图，小图在顶部居中位置，大图会铺满视频，小图和大图的界限是视频宽度的一半<br>选择一个文件夹，将图片放到文件夹内，自动选择图片添加，有内置</p><h4 id="特效"><a href="#特效" class="headerlink" title="特效"></a>特效</h4><p>就是透明的gif或者视频<br>选择一个文件夹，将特效放到文件夹内，自动选择特效添加，有内置</p><h4 id="字幕"><a href="#字幕" class="headerlink" title="字幕"></a>字幕</h4><p>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><pre><code>00ff00#求收藏|求点赞|求关注0000ff#爱我|你就关注我ff00ff#不点个赞么|不收藏一个么ff00ff#喜欢我|就关注我吧</code></pre><p>格式说明<br><code>#</code> 前面为字体颜色，后面为字幕的内容<code>|</code> 为每一条的分隔，每一条字幕显示3秒种<br>上面一行的字幕会应用到一个视频上，按顺序添加，字幕不够时随机选择。教程中有演示。<br>比如有6个视频，但是只有4条字幕，那么最后两条视频会随机选择两条字幕</p><h4 id="背景音乐"><a href="#背景音乐" class="headerlink" title="背景音乐"></a>背景音乐</h4><p>给视频替换背景音乐<br>选择一个文件夹，将音乐放到文件夹内，自动选择音乐添加，有内置</p><h4 id="定制片头"><a href="#定制片头" class="headerlink" title="定制片头"></a>定制片头</h4><p>注意，需要先填写百度语音参数，免费的。申请很简单。<br>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><p>效果，给每个视频生成不一样的片头。</p><pre><code>那些年 我们一起追过的女孩如果你的英语老师 长这样 你还会逃课吗如果她是合租女室友 你还会 天天打王者吗如果她是舞蹈老师 你会不会爱上跳舞</code></pre><p>格式说明<br>一行生成一个片头，空格表示换行，效果见视频演示。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/165158_32b331c9_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><h2 id="软件目录说明"><a href="#软件目录说明" class="headerlink" title="软件目录说明"></a>软件目录说明</h2><p>箭头所指的文件夹如果你想删除，都可以删掉，不过建议不要删，把资源放默认的文件夹内就省的每次选择了。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/170743_92ffc1e5_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>mac 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/164913_b9c8e79b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>windows 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/231757_9bd1a74b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>视频转场</title>
       <link href="/2020/07/16/videotransition/"/>
       <url>/2020/07/16/videotransition/</url>
@@ -93,31 +106,6 @@
     
     
     <entry>
-      <title>软件代理</title>
-      <link href="/2020/06/02/agent/"/>
-      <url>/2020/06/02/agent/</url>
-      
-        <content type="html"><![CDATA[<h2 id="代理商说明"><a href="#代理商说明" class="headerlink" title="代理商说明"></a>代理商说明</h2><ol><li>会给代理纯净版软件，软件上不带任何联系方式和官网信息，代理们可以放心推广。另外送纯净版视频采集器​</li><li>标价由代理自己决定，没有任何限制</li><li>代理分为两种模式，快发卡模式和自售模式，两者初始折扣不同</li><li>代理有了销量后，每月都会免费给体验卡用于代理推广</li><li>销量越多，折扣越低</li><li>有兴趣并且有能力的欢迎联系下面微信了解具体细节</li><li>因为折扣较低，所以需要少量押金(如果自身有资源可免押金)</li></ol><p><img src="https://mmbiz.qpic.cn/mmbiz_png/menat3dA5s6FFpF63hONOfibdibUibFbelL1W0fWLic3uIVyeZ0z9243LhGxoSLlkmHTicepcUHcUgy1u58dLNcOJ7Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt=""></p><h2 id="如何成为快发卡代理"><a href="#如何成为快发卡代理" class="headerlink" title="如何成为快发卡代理"></a>如何成为快发卡代理</h2><ol><li><a href="http://m.kuaifaka.com/invitied?code=77000846/" target="_blank" rel="noopener">进入网址 http://m.kuaifaka.com/invitied?code=77000846</a> 注册账户，填写相关信息。</li><li>进行商家认证，认证通过后，输入邀请代理码，成为代理商</li><li><img src="http://cdn.qiniu.freetop.ren/2020-06-02-15910871396971.jpg" alt=""></li><li>添加代理商品<img src="http://cdn.qiniu.freetop.ren/2020-07-28-15959173728764.jpg" alt=""></li><li>给商品添加描述信息和价格，参考官网</li><li>这和淘宝无货源卖货差不多，快发卡不需要缴纳一分钱就可以卖货。买家从代理商店铺购买卡号，钱就会自动按照进入代理商账户。</li></ol><p>产品描述：自研软件，支持windows和mac系统，可以批量自动化剪辑视频，处理音频和文本。<br>官网地址：<a href="https://fstongxue.gitee.io/">https://fstongxue.gitee.io/</a></p><h2 id="自售模式"><a href="#自售模式" class="headerlink" title="自售模式"></a>自售模式</h2><p>每次给一批卡，卖完后再结算，然后再给一批卡(一个月至少结算一次)</p><h2 id="代理专用软件地址"><a href="#代理专用软件地址" class="headerlink" title="代理专用软件地址"></a>代理专用软件地址</h2><h3 id="视频全网采集免费版"><a href="#视频全网采集免费版" class="headerlink" title="视频全网采集免费版"></a>视频全网采集免费版</h3><p>通用卡号：微信联系<br><a href="https://www.lanzoux.com/b00zof0bg" target="_blank" rel="noopener">https://www.lanzoux.com/b00zof0bg</a><br>密码:f9ko</p><h3 id="视频剪辑专业版"><a href="#视频剪辑专业版" class="headerlink" title="视频剪辑专业版"></a>视频剪辑专业版</h3><p><a href="https://www.lanzoux.com/b00zoskgj" target="_blank" rel="noopener">https://www.lanzoux.com/b00zoskgj</a><br>密码:gvu1</p><h3 id="伪原创剪辑器"><a href="#伪原创剪辑器" class="headerlink" title="伪原创剪辑器"></a>伪原创剪辑器</h3><p><a href="https://www.lanzoux.com/b00zownoj" target="_blank" rel="noopener">https://www.lanzoux.com/b00zownoj</a><br>密码:14z0</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> other </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 软件代理 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>通用教程</title>
       <link href="/2020/06/02/common/"/>
       <url>/2020/06/02/common/</url>
@@ -170,6 +158,31 @@
     
     
     <entry>
+      <title>软件代理</title>
+      <link href="/2020/06/02/agent/"/>
+      <url>/2020/06/02/agent/</url>
+      
+        <content type="html"><![CDATA[<h2 id="代理商说明"><a href="#代理商说明" class="headerlink" title="代理商说明"></a>代理商说明</h2><ol><li>会给代理纯净版软件，软件上不带任何联系方式和官网信息，代理们可以放心推广。另外送纯净版视频采集器​</li><li>标价由代理自己决定，没有任何限制</li><li>代理分为两种模式，快发卡模式和自售模式，两者初始折扣不同</li><li>代理有了销量后，每月都会免费给体验卡用于代理推广</li><li>销量越多，折扣越低</li><li>有兴趣并且有能力的欢迎联系下面微信了解具体细节</li><li>因为折扣较低，所以需要少量押金(如果自身有资源可免押金)</li></ol><p><img src="https://mmbiz.qpic.cn/mmbiz_png/menat3dA5s6FFpF63hONOfibdibUibFbelL1W0fWLic3uIVyeZ0z9243LhGxoSLlkmHTicepcUHcUgy1u58dLNcOJ7Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt=""></p><h2 id="如何成为快发卡代理"><a href="#如何成为快发卡代理" class="headerlink" title="如何成为快发卡代理"></a>如何成为快发卡代理</h2><ol><li><a href="http://m.kuaifaka.com/invitied?code=77000846/" target="_blank" rel="noopener">进入网址 http://m.kuaifaka.com/invitied?code=77000846</a> 注册账户，填写相关信息。</li><li>进行商家认证，认证通过后，输入邀请代理码，成为代理商</li><li><img src="http://cdn.qiniu.freetop.ren/2020-06-02-15910871396971.jpg" alt=""></li><li>添加代理商品<img src="http://cdn.qiniu.freetop.ren/2020-07-28-15959173728764.jpg" alt=""></li><li>给商品添加描述信息和价格，参考官网</li><li>这和淘宝无货源卖货差不多，快发卡不需要缴纳一分钱就可以卖货。买家从代理商店铺购买卡号，钱就会自动按照进入代理商账户。</li></ol><p>产品描述：自研软件，支持windows和mac系统，可以批量自动化剪辑视频，处理音频和文本。<br>官网地址：<a href="https://fstongxue.gitee.io/">https://fstongxue.gitee.io/</a></p><h2 id="自售模式"><a href="#自售模式" class="headerlink" title="自售模式"></a>自售模式</h2><p>每次给一批卡，卖完后再结算，然后再给一批卡(一个月至少结算一次)</p><h2 id="代理专用软件地址"><a href="#代理专用软件地址" class="headerlink" title="代理专用软件地址"></a>代理专用软件地址</h2><h3 id="视频全网采集免费版"><a href="#视频全网采集免费版" class="headerlink" title="视频全网采集免费版"></a>视频全网采集免费版</h3><p>通用卡号：微信联系<br><a href="https://www.lanzoux.com/b00zof0bg" target="_blank" rel="noopener">https://www.lanzoux.com/b00zof0bg</a><br>密码:f9ko</p><h3 id="视频剪辑专业版"><a href="#视频剪辑专业版" class="headerlink" title="视频剪辑专业版"></a>视频剪辑专业版</h3><p><a href="https://www.lanzoux.com/b00zoskgj" target="_blank" rel="noopener">https://www.lanzoux.com/b00zoskgj</a><br>密码:gvu1</p><h3 id="伪原创剪辑器"><a href="#伪原创剪辑器" class="headerlink" title="伪原创剪辑器"></a>伪原创剪辑器</h3><p><a href="https://www.lanzoux.com/b00zownoj" target="_blank" rel="noopener">https://www.lanzoux.com/b00zownoj</a><br>密码:14z0</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件代理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>bilibili批量采集</title>
       <link href="/2020/05/29/videobilibili/"/>
       <url>/2020/05/29/videobilibili/</url>
@@ -203,7 +216,7 @@
       <link href="/2020/05/02/videocollector/"/>
       <url>/2020/05/02/videocollector/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,西瓜,好看,皮皮虾,最右,不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>下载目录为软件所在的download目录</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>链接:<a href="https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng" target="_blank" rel="noopener">https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng</a>  密码:34qd</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-06-22-15928159133627.jpg" alt=""></p><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,西瓜,好看,皮皮虾,最右,微视，不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>下载目录默认为桌面，自己也可以修改</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>链接:<a href="https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng" target="_blank" rel="noopener">https://pan.baidu.com/s/1DLkTu13eVkLKhX-waF9hng</a>  密码:34qd</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p>mac版界面<br><img src="https://images.gitee.com/uploads/images/2020/0820/165917_aaaa245f_1093073.png" alt="mac版界面" title="屏幕截图.png"></p><p>window版界面<br><img src="https://images.gitee.com/uploads/images/2020/0820/215553_7d809d76_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""><br>回复<code>采集器卡号</code>获取激活码</p>]]></content>
       
       
       <categories>
@@ -433,6 +446,8 @@
       
         <tags>
             
+            <tag> 自媒体 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 背景图片 </tag>
@@ -440,8 +455,6 @@
             <tag> 模糊拓边 </tag>
             
             <tag> 镜像 </tag>
-            
-            <tag> 自媒体 </tag>
             
             <tag> 剪辑 </tag>
             
