@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 镜像 </tag>
-            
             <tag> 视频裂变 </tag>
+            
+            <tag> 镜像 </tag>
             
             <tag> 分割 </tag>
             
@@ -111,6 +111,8 @@
       
         <tags>
             
+            <tag> 镜像 </tag>
+            
             <tag> 深度处理 </tag>
             
             <tag> 关键帧 </tag>
@@ -122,33 +124,6 @@
             <tag> 背景图片 </tag>
             
             <tag> 模糊拓边 </tag>
-            
-            <tag> 镜像 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>常见问题</title>
-      <link href="/2020/06/02/question/"/>
-      <url>/2020/06/02/question/</url>
-      
-        <content type="html"><![CDATA[<h2 id="常见问题说明"><a href="#常见问题说明" class="headerlink" title="常见问题说明"></a>常见问题说明</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> other </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 常见问题 </tag>
             
         </tags>
       
@@ -174,6 +149,31 @@
         <tags>
             
             <tag> 软件代理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>常见问题</title>
+      <link href="/2020/06/02/question/"/>
+      <url>/2020/06/02/question/</url>
+      
+        <content type="html"><![CDATA[<h2 id="常见问题说明"><a href="#常见问题说明" class="headerlink" title="常见问题说明"></a>常见问题说明</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 常见问题 </tag>
             
         </tags>
       
@@ -474,17 +474,17 @@
             
             <tag> 自媒体 </tag>
             
-            <tag> 画中画 </tag>
-            
-            <tag> 背景图片 </tag>
-            
-            <tag> 模糊拓边 </tag>
-            
             <tag> 镜像 </tag>
             
             <tag> 倍速 </tag>
             
             <tag> 背景音乐 </tag>
+            
+            <tag> 画中画 </tag>
+            
+            <tag> 背景图片 </tag>
+            
+            <tag> 模糊拓边 </tag>
             
             <tag> 剪辑 </tag>
             
