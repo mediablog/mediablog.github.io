@@ -4,13 +4,39 @@
   
     
     <entry>
-      <title>videoFission</title>
+      <title>裂变利器</title>
       <link href="/2020/08/22/videofission/"/>
       <url>/2020/08/22/videofission/</url>
       
-        <content type="html"><![CDATA[<hr><p>title: 裂变利器<br>date: 2020-08-22 16:32:26<br>top: true<br>cover: true<br>summary: 视频裂变<br>keywords: 视频裂变<br>categories: 软件<br>tags:</p><ul><li>视频裂变</li><li>镜像</li><li>分割</li><li>转场</li><li>特效</li><li>倍速</li><li>背景音乐</li><li>定制片头</li></ul><hr><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>做视频自媒体的必备利器，将一个视频裂变成多个视频，每个都不重复，每个视频具有不同的片头，配音，字幕，特效，背景音乐等。</p><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/pages?sort_id=2730283&doc_id=879017" target="_blank" rel="noopener">详细文档</a></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg" target="_blank" rel="noopener">https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg</a>  密码:sek9</p><h3 id="功能点介绍"><a href="#功能点介绍" class="headerlink" title="功能点介绍"></a>功能点介绍</h3><h4 id="裂变数量"><a href="#裂变数量" class="headerlink" title="裂变数量"></a>裂变数量</h4><p>表示一个视频裂变成n个，比如一共处理3个视频，裂变数量为2， 那么最终生成6个视频</p><h4 id="水平镜像"><a href="#水平镜像" class="headerlink" title="水平镜像"></a>水平镜像</h4><p>将视频进行水平镜像处理</p><h4 id="分割"><a href="#分割" class="headerlink" title="分割"></a>分割</h4><p>将视频分段后重新随机合并，参数是分段的间隔</p><p><strong>注意</strong> 如果选择了分割和转场，一定要选择背景音乐</p><h4 id="转场"><a href="#转场" class="headerlink" title="转场"></a>转场</h4><p>上面进行分割后才能添加转场效果，否则勾选也无效</p><h4 id="贴图"><a href="#贴图" class="headerlink" title="贴图"></a>贴图</h4><p>就是图片水印，支持小图标和大图，小图在顶部居中位置，大图会铺满视频，小图和大图的界限是视频宽度的一半<br>选择一个文件夹，将图片放到文件夹内，自动选择图片添加，有内置</p><h4 id="特效"><a href="#特效" class="headerlink" title="特效"></a>特效</h4><p>就是透明的gif或者视频<br>选择一个文件夹，将特效放到文件夹内，自动选择特效添加，有内置</p><h4 id="字幕"><a href="#字幕" class="headerlink" title="字幕"></a>字幕</h4><p>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><pre><code>00ff00#求收藏|求点赞|求关注0000ff#爱我|你就关注我ff00ff#不点个赞么|不收藏一个么ff00ff#喜欢我|就关注我吧</code></pre><p>格式说明<br><code>#</code> 前面为字体颜色，后面为字幕的内容<code>|</code> 为每一条的分隔，每一条字幕显示3秒种<br>上面一行的字幕会应用到一个视频上，按顺序添加，字幕不够时随机选择。教程中有演示。<br>比如有6个视频，但是只有4条字幕，那么最后两条视频会随机选择两条字幕</p><h4 id="背景音乐"><a href="#背景音乐" class="headerlink" title="背景音乐"></a>背景音乐</h4><p>给视频替换背景音乐<br>选择一个文件夹，将音乐放到文件夹内，自动选择音乐添加，有内置</p><h4 id="定制片头"><a href="#定制片头" class="headerlink" title="定制片头"></a>定制片头</h4><p>注意，需要先填写百度语音参数，免费的。申请很简单。<br>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><p>效果，给每个视频生成不一样的片头。</p><pre><code>那些年 我们一起追过的女孩如果你的英语老师 长这样 你还会逃课吗如果她是合租女室友 你还会 天天打王者吗如果她是舞蹈老师 你会不会爱上跳舞</code></pre><p>格式说明<br>一行生成一个片头，空格表示换行，效果见视频演示。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/165158_32b331c9_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><h2 id="软件目录说明"><a href="#软件目录说明" class="headerlink" title="软件目录说明"></a>软件目录说明</h2><p>箭头所指的文件夹如果你想删除，都可以删掉，不过建议不要删，把资源放默认的文件夹内就省的每次选择了。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/170743_92ffc1e5_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>mac 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/164913_b9c8e79b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>windows 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/231757_9bd1a74b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>做视频自媒体的必备利器，将一个视频裂变成多个视频，每个都不重复，每个视频具有不同的片头，配音，字幕，特效，背景音乐等。</p><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/pages?sort_id=2730283&doc_id=879017" target="_blank" rel="noopener">详细文档</a></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg" target="_blank" rel="noopener">https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg</a>  密码:sek9</p><h3 id="功能点介绍"><a href="#功能点介绍" class="headerlink" title="功能点介绍"></a>功能点介绍</h3><h4 id="裂变数量"><a href="#裂变数量" class="headerlink" title="裂变数量"></a>裂变数量</h4><p>表示一个视频裂变成n个，比如一共处理3个视频，裂变数量为2， 那么最终生成6个视频</p><h4 id="水平镜像"><a href="#水平镜像" class="headerlink" title="水平镜像"></a>水平镜像</h4><p>将视频进行水平镜像处理</p><h4 id="分割"><a href="#分割" class="headerlink" title="分割"></a>分割</h4><p>将视频分段后重新随机合并，参数是分段的间隔</p><p><strong>注意</strong> 如果选择了分割，一定要选择背景音乐，因为分割后随机合并，音乐也是乱的。</p><h4 id="转场"><a href="#转场" class="headerlink" title="转场"></a>转场</h4><p>上面进行分割后才能添加转场效果，否则勾选也无效</p><h4 id="贴图"><a href="#贴图" class="headerlink" title="贴图"></a>贴图</h4><p>就是图片水印，支持小图标和大图，小图在顶部居中位置，大图会铺满视频，小图和大图的界限是视频宽度的一半<br>选择一个文件夹，将图片放到文件夹内，自动选择图片添加，有内置</p><h4 id="特效"><a href="#特效" class="headerlink" title="特效"></a>特效</h4><p>就是透明的gif或者视频<br>选择一个文件夹，将特效放到文件夹内，自动选择特效添加，有内置</p><h4 id="字幕"><a href="#字幕" class="headerlink" title="字幕"></a>字幕</h4><p>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><pre><code>00ff00#求收藏|求点赞|求关注0000ff#爱我|你就关注我ff00ff#不点个赞么|不收藏一个么ff00ff#喜欢我|就关注我吧</code></pre><p>格式说明<br><code>#</code> 前面为字体颜色，后面为字幕的内容<code>|</code> 为每一条的分隔，每一条字幕显示3秒种<br>上面一行的字幕会应用到一个视频上，按顺序添加，字幕不够时随机选择。教程中有演示。<br>比如有6个视频，但是只有4条字幕，那么最后两条视频会随机选择两条字幕</p><h4 id="背景音乐"><a href="#背景音乐" class="headerlink" title="背景音乐"></a>背景音乐</h4><p>给视频替换背景音乐<br>选择一个文件夹，将音乐放到文件夹内，自动选择音乐添加，有内置</p><h4 id="定制片头"><a href="#定制片头" class="headerlink" title="定制片头"></a>定制片头</h4><p>注意，需要先填写百度语音参数，免费的。申请很简单。<br>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><p>效果，给每个视频生成不一样的片头。</p><pre><code>那些年 我们一起追过的女孩如果你的英语老师 长这样 你还会逃课吗如果她是合租女室友 你还会 天天打王者吗如果她是舞蹈老师 你会不会爱上跳舞</code></pre><p>格式说明<br>一行生成一个片头，空格表示换行，效果见视频演示。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/165158_32b331c9_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><h2 id="软件目录说明"><a href="#软件目录说明" class="headerlink" title="软件目录说明"></a>软件目录说明</h2><p>箭头所指的文件夹如果你想删除，都可以删掉，不过建议不要删，把资源放默认的文件夹内就省的每次选择了。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/170743_92ffc1e5_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>mac 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/164913_b9c8e79b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>windows 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/231757_9bd1a74b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 镜像 </tag>
+            
+            <tag> 视频裂变 </tag>
+            
+            <tag> 分割 </tag>
+            
+            <tag> 转场 </tag>
+            
+            <tag> 特效 </tag>
+            
+            <tag> 倍速 </tag>
+            
+            <tag> 背景音乐 </tag>
+            
+            <tag> 定制片头 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -106,33 +132,6 @@
     
     
     <entry>
-      <title>通用教程</title>
-      <link href="/2020/06/02/common/"/>
-      <url>/2020/06/02/common/</url>
-      
-        <content type="html"><![CDATA[<h2 id="如何找到所需软件-下载-激活-打开"><a href="#如何找到所需软件-下载-激活-打开" class="headerlink" title="如何找到所需软件-下载-激活-打开"></a>如何找到所需软件-下载-激活-打开</h2><p><a href="https://share.plvideo.cn/front/video/preview?vid=65f8c99d3f6dae0bab60a49d429c9a98_6" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="软件打不开的解决方法"><a href="#软件打不开的解决方法" class="headerlink" title="软件打不开的解决方法"></a>软件打不开的解决方法</h2><p>软件启动之后都会在控制台(终端/cmd)显示地址，如下图所示，<br><img src="http://cdn.qiniu.freetop.ren/2020-06-14-15921026244221.jpg" alt=""></p><p>如果无法自动打开浏览器， 复制红框内的网址到浏览器打开即可。如果还无法打开，请关闭远程连接。</p><h2 id="如何下载并打开软件"><a href="#如何下载并打开软件" class="headerlink" title="如何下载并打开软件"></a>如何下载并打开软件</h2><p><a href="https://www.bilibili.com/video/BV1ZC4y1h7SE/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="所有软件在mac上的打开方法"><a href="#所有软件在mac上的打开方法" class="headerlink" title="所有软件在mac上的打开方法"></a>所有软件在mac上的打开方法</h2><p><a href="https://www.bilibili.com/video/BV1JK4y147wT/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="设备绑定问题"><a href="#设备绑定问题" class="headerlink" title="设备绑定问题"></a>设备绑定问题</h2><ul><li>日卡 可绑定设备 1 台</li><li>月卡 可绑定设备 1 台</li><li>年卡 可绑定设备 2 台</li></ul><p>需要加设备，微信联系。</p><h2 id="关于软件升级"><a href="#关于软件升级" class="headerlink" title="关于软件升级"></a>关于软件升级</h2><p>原创生成器升级，将 source/files下面的所有文件复制到新版软件中的source/files 即可，然后打开新版程序，就不需要重新激活和输入参数。</p><p>其他软件升级直接打开新版软件即可</p><h2 id="关于硬件加速"><a href="#关于硬件加速" class="headerlink" title="关于硬件加速"></a>关于硬件加速</h2><p>只支持windows<br>启用前配置<a href="https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww" target="_blank" rel="noopener">https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> other </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> other </tag>
-            
-            <tag> 通用教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>常见问题</title>
       <link href="/2020/06/02/question/"/>
       <url>/2020/06/02/question/</url>
@@ -175,6 +174,33 @@
         <tags>
             
             <tag> 软件代理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>通用教程</title>
+      <link href="/2020/06/02/common/"/>
+      <url>/2020/06/02/common/</url>
+      
+        <content type="html"><![CDATA[<h2 id="如何找到所需软件-下载-激活-打开"><a href="#如何找到所需软件-下载-激活-打开" class="headerlink" title="如何找到所需软件-下载-激活-打开"></a>如何找到所需软件-下载-激活-打开</h2><p><a href="https://share.plvideo.cn/front/video/preview?vid=65f8c99d3f6dae0bab60a49d429c9a98_6" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="软件打不开的解决方法"><a href="#软件打不开的解决方法" class="headerlink" title="软件打不开的解决方法"></a>软件打不开的解决方法</h2><p>软件启动之后都会在控制台(终端/cmd)显示地址，如下图所示，<br><img src="http://cdn.qiniu.freetop.ren/2020-06-14-15921026244221.jpg" alt=""></p><p>如果无法自动打开浏览器， 复制红框内的网址到浏览器打开即可。如果还无法打开，请关闭远程连接。</p><h2 id="如何下载并打开软件"><a href="#如何下载并打开软件" class="headerlink" title="如何下载并打开软件"></a>如何下载并打开软件</h2><p><a href="https://www.bilibili.com/video/BV1ZC4y1h7SE/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="所有软件在mac上的打开方法"><a href="#所有软件在mac上的打开方法" class="headerlink" title="所有软件在mac上的打开方法"></a>所有软件在mac上的打开方法</h2><p><a href="https://www.bilibili.com/video/BV1JK4y147wT/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="设备绑定问题"><a href="#设备绑定问题" class="headerlink" title="设备绑定问题"></a>设备绑定问题</h2><ul><li>日卡 可绑定设备 1 台</li><li>月卡 可绑定设备 1 台</li><li>年卡 可绑定设备 2 台</li></ul><p>需要加设备，微信联系。</p><h2 id="关于软件升级"><a href="#关于软件升级" class="headerlink" title="关于软件升级"></a>关于软件升级</h2><p>原创生成器升级，将 source/files下面的所有文件复制到新版软件中的source/files 即可，然后打开新版程序，就不需要重新激活和输入参数。</p><p>其他软件升级直接打开新版软件即可</p><h2 id="关于硬件加速"><a href="#关于硬件加速" class="headerlink" title="关于硬件加速"></a>关于硬件加速</h2><p>只支持windows<br>启用前配置<a href="https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww" target="_blank" rel="noopener">https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> other </tag>
+            
+            <tag> 通用教程 </tag>
             
         </tags>
       
@@ -456,6 +482,10 @@
             
             <tag> 镜像 </tag>
             
+            <tag> 倍速 </tag>
+            
+            <tag> 背景音乐 </tag>
+            
             <tag> 剪辑 </tag>
             
             <tag> 水印 </tag>
@@ -463,10 +493,6 @@
             <tag> 片头 </tag>
             
             <tag> 剪裁 </tag>
-            
-            <tag> 倍速 </tag>
-            
-            <tag> 背景音乐 </tag>
             
             <tag> 批量合成 </tag>
             
