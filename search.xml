@@ -53,9 +53,9 @@
       
         <tags>
             
-            <tag> 视频裂变 </tag>
-            
             <tag> 镜像 </tag>
+            
+            <tag> 视频裂变 </tag>
             
             <tag> 分割 </tag>
             
@@ -144,8 +144,6 @@
       
         <tags>
             
-            <tag> 镜像 </tag>
-            
             <tag> 深度处理 </tag>
             
             <tag> 关键帧 </tag>
@@ -158,30 +156,7 @@
             
             <tag> 模糊拓边 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>常见问题</title>
-      <link href="/2020/06/02/question/"/>
-      <url>/2020/06/02/question/</url>
-      
-        <content type="html"><![CDATA[<h2 id="常见问题说明"><a href="#常见问题说明" class="headerlink" title="常见问题说明"></a>常见问题说明</h2><h3 id="处理失败原因"><a href="#处理失败原因" class="headerlink" title="处理失败原因"></a>处理失败原因</h3><ol><li>可能是文件名问题，文件名不要出现<code>&quot;</code> <code>?</code> <code>&lt;</code> <code>》</code>等特俗符号，最好是字母和数字，比如 <code>123.mp4</code> <code>12ab.mp4</code></li><li>参数问题</li></ol><h3 id="水印坐标"><a href="#水印坐标" class="headerlink" title="水印坐标"></a>水印坐标</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> other </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 常见问题 </tag>
+            <tag> 镜像 </tag>
             
         </tags>
       
@@ -207,6 +182,31 @@
         <tags>
             
             <tag> 软件代理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>常见问题</title>
+      <link href="/2020/06/02/question/"/>
+      <url>/2020/06/02/question/</url>
+      
+        <content type="html"><![CDATA[<h2 id="常见问题说明"><a href="#常见问题说明" class="headerlink" title="常见问题说明"></a>常见问题说明</h2><h3 id="处理失败原因"><a href="#处理失败原因" class="headerlink" title="处理失败原因"></a>处理失败原因</h3><ol><li>可能是文件名问题，文件名不要出现<code>&quot;</code> <code>?</code> <code>&lt;</code> <code>》</code>等特俗符号，最好是字母和数字，比如 <code>123.mp4</code> <code>12ab.mp4</code></li><li>参数问题</li></ol><h3 id="水印坐标"><a href="#水印坐标" class="headerlink" title="水印坐标"></a>水印坐标</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 常见问题 </tag>
             
         </tags>
       
@@ -509,17 +509,17 @@
             
             <tag> 自媒体 </tag>
             
-            <tag> 镜像 </tag>
-            
-            <tag> 倍速 </tag>
-            
-            <tag> 背景音乐 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 背景图片 </tag>
             
             <tag> 模糊拓边 </tag>
+            
+            <tag> 镜像 </tag>
+            
+            <tag> 倍速 </tag>
+            
+            <tag> 背景音乐 </tag>
             
             <tag> 水印 </tag>
             
