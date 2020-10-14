@@ -165,11 +165,11 @@
     
     
     <entry>
-      <title>软件代理</title>
-      <link href="/2020/06/02/agent/"/>
-      <url>/2020/06/02/agent/</url>
+      <title>通用教程</title>
+      <link href="/2020/06/02/common/"/>
+      <url>/2020/06/02/common/</url>
       
-        <content type="html"><![CDATA[<p>两种代理模式</p><p>说明：<br>月卡和年卡指的是任一软件都可以<br>所有软件包为纯净版，不带任何联系方式<br>赠送全网采集器用于自己推广<br>标价由代理自己决定，没有任何限制</p><p>模式一：通过快发卡(支持3级代理)</p><ol><li>押金200，达到以下任一要求退还押金(1.月卡10张 2.年卡3张)</li><li>初始折扣为8折</li><li>达到退还押金的条件后每月赠送30张体验卡</li></ol><p>模式二：自己售卖</p><ol><li>押金500，达到以下要求退还押金(年卡10张)</li><li>初始折扣为5折</li><li>每月赠送30张体验卡(销量上去了可以加)</li></ol><p>模式一的后台是快发卡平台<br>模式二的后台是我们自己开发的后台管理中心，代理可自己创建卡号，查询卡号，每月销量统计等功能</p><p>折扣为梯度式，销量越高，折扣越大，给你的支持力度也会越大，详细内容加微信联系</p><p>联系方式， <strong>不是代理咨询请不要加微信</strong> </p><p><img src="https://images.gitee.com/uploads/images/2020/0814/172353_c7499294_1093073.png" alt="扫码" title="11.png"></p><h2 id="如何成为快发卡代理"><a href="#如何成为快发卡代理" class="headerlink" title="如何成为快发卡代理"></a>如何成为快发卡代理</h2><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/%E5%BF%AB%E5%8F%91%E5%8D%A1%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B?sort_id=2730258" target="_blank" rel="noopener">快发卡申请流程</a></p><h2 id="自售模式"><a href="#自售模式" class="headerlink" title="自售模式"></a>自售模式</h2><p>每次给一批卡，卖完后再结算，然后再给一批卡(一个月至少结算一次)</p><h2 id="代理专用软件地址"><a href="#代理专用软件地址" class="headerlink" title="代理专用软件地址"></a>代理专用软件地址</h2><h3 id="视频全网采集免费版"><a href="#视频全网采集免费版" class="headerlink" title="视频全网采集免费版"></a>视频全网采集免费版</h3><p>通用卡号：微信联系<br><a href="https://www.lanzoux.com/b00zof0bg" target="_blank" rel="noopener">https://www.lanzoux.com/b00zof0bg</a><br>密码:f9ko</p><h3 id="AI快剪"><a href="#AI快剪" class="headerlink" title="AI快剪"></a>AI快剪</h3><p><a href="https://www.lanzoux.com/b00zsz4ve" target="_blank" rel="noopener">https://www.lanzoux.com/b00zsz4ve</a> 密码:e1ss</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="如何找到所需软件-下载-激活-打开"><a href="#如何找到所需软件-下载-激活-打开" class="headerlink" title="如何找到所需软件-下载-激活-打开"></a>如何找到所需软件-下载-激活-打开</h2><p><a href="https://share.plvideo.cn/front/video/preview?vid=65f8c99d3f6dae0bab60a49d429c9a98_6" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="软件打不开的解决方法"><a href="#软件打不开的解决方法" class="headerlink" title="软件打不开的解决方法"></a>软件打不开的解决方法</h2><p>软件启动之后都会在控制台(终端/cmd)显示地址，如下图所示，<br><img src="http://cdn.qiniu.freetop.ren/2020-06-14-15921026244221.jpg" alt=""></p><p>如果无法自动打开浏览器， 复制红框内的网址到浏览器打开即可。如果还无法打开，请关闭远程连接。</p><h2 id="如何下载并打开软件"><a href="#如何下载并打开软件" class="headerlink" title="如何下载并打开软件"></a>如何下载并打开软件</h2><p><a href="https://www.bilibili.com/video/BV1ZC4y1h7SE/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="所有软件在mac上的打开方法"><a href="#所有软件在mac上的打开方法" class="headerlink" title="所有软件在mac上的打开方法"></a>所有软件在mac上的打开方法</h2><p><a href="https://www.bilibili.com/video/BV1JK4y147wT/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="设备绑定问题"><a href="#设备绑定问题" class="headerlink" title="设备绑定问题"></a>设备绑定问题</h2><ul><li>日卡 可绑定设备 1 台</li><li>月卡 可绑定设备 1 台</li><li>年卡 可绑定设备 2 台</li></ul><p>需要加设备，微信联系。</p><h2 id="关于软件升级"><a href="#关于软件升级" class="headerlink" title="关于软件升级"></a>关于软件升级</h2><p>原创生成器升级，将 source/files下面的所有文件复制到新版软件中的source/files 即可，然后打开新版程序，就不需要重新激活和输入参数。</p><p>其他软件升级直接打开新版软件即可</p><h2 id="关于硬件加速"><a href="#关于硬件加速" class="headerlink" title="关于硬件加速"></a>关于硬件加速</h2><p>只支持windows<br>启用前配置<a href="https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww" target="_blank" rel="noopener">https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww</a></p>]]></content>
       
       
       <categories>
@@ -181,7 +181,9 @@
       
         <tags>
             
-            <tag> 软件代理 </tag>
+            <tag> other </tag>
+            
+            <tag> 通用教程 </tag>
             
         </tags>
       
@@ -215,11 +217,11 @@
     
     
     <entry>
-      <title>通用教程</title>
-      <link href="/2020/06/02/common/"/>
-      <url>/2020/06/02/common/</url>
+      <title>软件代理</title>
+      <link href="/2020/06/02/agent/"/>
+      <url>/2020/06/02/agent/</url>
       
-        <content type="html"><![CDATA[<h2 id="如何找到所需软件-下载-激活-打开"><a href="#如何找到所需软件-下载-激活-打开" class="headerlink" title="如何找到所需软件-下载-激活-打开"></a>如何找到所需软件-下载-激活-打开</h2><p><a href="https://share.plvideo.cn/front/video/preview?vid=65f8c99d3f6dae0bab60a49d429c9a98_6" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="软件打不开的解决方法"><a href="#软件打不开的解决方法" class="headerlink" title="软件打不开的解决方法"></a>软件打不开的解决方法</h2><p>软件启动之后都会在控制台(终端/cmd)显示地址，如下图所示，<br><img src="http://cdn.qiniu.freetop.ren/2020-06-14-15921026244221.jpg" alt=""></p><p>如果无法自动打开浏览器， 复制红框内的网址到浏览器打开即可。如果还无法打开，请关闭远程连接。</p><h2 id="如何下载并打开软件"><a href="#如何下载并打开软件" class="headerlink" title="如何下载并打开软件"></a>如何下载并打开软件</h2><p><a href="https://www.bilibili.com/video/BV1ZC4y1h7SE/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="所有软件在mac上的打开方法"><a href="#所有软件在mac上的打开方法" class="headerlink" title="所有软件在mac上的打开方法"></a>所有软件在mac上的打开方法</h2><p><a href="https://www.bilibili.com/video/BV1JK4y147wT/" target="_blank" rel="noopener">点击查看视频</a></p><h2 id="设备绑定问题"><a href="#设备绑定问题" class="headerlink" title="设备绑定问题"></a>设备绑定问题</h2><ul><li>日卡 可绑定设备 1 台</li><li>月卡 可绑定设备 1 台</li><li>年卡 可绑定设备 2 台</li></ul><p>需要加设备，微信联系。</p><h2 id="关于软件升级"><a href="#关于软件升级" class="headerlink" title="关于软件升级"></a>关于软件升级</h2><p>原创生成器升级，将 source/files下面的所有文件复制到新版软件中的source/files 即可，然后打开新版程序，就不需要重新激活和输入参数。</p><p>其他软件升级直接打开新版软件即可</p><h2 id="关于硬件加速"><a href="#关于硬件加速" class="headerlink" title="关于硬件加速"></a>关于硬件加速</h2><p>只支持windows<br>启用前配置<a href="https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww" target="_blank" rel="noopener">https://www.yuque.com/fengshi-zm9in/sp1lp3/xpugww</a></p>]]></content>
+        <content type="html"><![CDATA[<p>两种代理模式</p><p>说明：<br>月卡和年卡指的是任一软件都可以<br>所有软件包为纯净版，不带任何联系方式<br>赠送全网采集器用于自己推广<br>标价由代理自己决定，没有任何限制</p><p>模式一：通过快发卡(支持3级代理)</p><ol><li>押金200，达到以下任一要求退还押金(1.月卡10张 2.年卡3张)</li><li>初始折扣为8折</li><li>达到退还押金的条件后每月赠送30张体验卡</li></ol><p>模式二：自己售卖</p><ol><li>押金500，达到以下要求退还押金(年卡10张)</li><li>初始折扣为5折</li><li>每月赠送30张体验卡(销量上去了可以加)</li></ol><p>模式一的后台是快发卡平台<br>模式二的后台是我们自己开发的后台管理中心，代理可自己创建卡号，查询卡号，每月销量统计等功能</p><p>折扣为梯度式，销量越高，折扣越大，给你的支持力度也会越大，详细内容加微信联系</p><p>联系方式， <strong>不是代理咨询请不要加微信</strong> </p><p><img src="https://images.gitee.com/uploads/images/2020/0814/172353_c7499294_1093073.png" alt="扫码" title="11.png"></p><h2 id="如何成为快发卡代理"><a href="#如何成为快发卡代理" class="headerlink" title="如何成为快发卡代理"></a>如何成为快发卡代理</h2><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/%E5%BF%AB%E5%8F%91%E5%8D%A1%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B?sort_id=2730258" target="_blank" rel="noopener">快发卡申请流程</a></p><h2 id="自售模式"><a href="#自售模式" class="headerlink" title="自售模式"></a>自售模式</h2><p>每次给一批卡，卖完后再结算，然后再给一批卡(一个月至少结算一次)</p><h2 id="代理专用软件地址"><a href="#代理专用软件地址" class="headerlink" title="代理专用软件地址"></a>代理专用软件地址</h2><h3 id="视频全网采集免费版"><a href="#视频全网采集免费版" class="headerlink" title="视频全网采集免费版"></a>视频全网采集免费版</h3><p>通用卡号：微信联系<br><a href="https://www.lanzoux.com/b00zof0bg" target="_blank" rel="noopener">https://www.lanzoux.com/b00zof0bg</a><br>密码:f9ko</p><h3 id="AI快剪"><a href="#AI快剪" class="headerlink" title="AI快剪"></a>AI快剪</h3><p><a href="https://www.lanzoux.com/b00zsz4ve" target="_blank" rel="noopener">https://www.lanzoux.com/b00zsz4ve</a> 密码:e1ss</p>]]></content>
       
       
       <categories>
@@ -231,9 +233,7 @@
       
         <tags>
             
-            <tag> other </tag>
-            
-            <tag> 通用教程 </tag>
+            <tag> 软件代理 </tag>
             
         </tags>
       
@@ -515,11 +515,11 @@
             
             <tag> 镜像 </tag>
             
-            <tag> 自媒体 </tag>
-            
             <tag> 倍速 </tag>
             
             <tag> 背景音乐 </tag>
+            
+            <tag> 自媒体 </tag>
             
             <tag> 水印 </tag>
             
