@@ -20,6 +20,8 @@
       
         <tags>
             
+            <tag> 特效 </tag>
+            
             <tag> AI快剪 </tag>
             
             <tag> 剪辑 </tag>
@@ -33,8 +35,6 @@
             <tag> 裂变 </tag>
             
             <tag> AI全自动 </tag>
-            
-            <tag> 特效 </tag>
             
         </tags>
       
@@ -59,15 +59,15 @@
       
         <tags>
             
-            <tag> 特效 </tag>
+            <tag> 视频裂变 </tag>
             
             <tag> 镜像 </tag>
-            
-            <tag> 视频裂变 </tag>
             
             <tag> 分割 </tag>
             
             <tag> 转场 </tag>
+            
+            <tag> 特效 </tag>
             
             <tag> 倍速 </tag>
             
@@ -98,13 +98,13 @@
       
         <tags>
             
-            <tag> 背景图片 </tag>
-            
-            <tag> 模糊拓边 </tag>
-            
             <tag> 横竖屏转换器 </tag>
             
             <tag> 背景颜色 </tag>
+            
+            <tag> 背景图片 </tag>
+            
+            <tag> 模糊拓边 </tag>
             
             <tag> 3p叠加 </tag>
             
@@ -133,19 +133,19 @@
       
         <tags>
             
-            <tag> 深度处理 </tag>
-            
-            <tag> 关键帧 </tag>
-            
-            <tag> 滤镜 </tag>
-            
-            <tag> 画中画 </tag>
+            <tag> 镜像 </tag>
             
             <tag> 背景图片 </tag>
             
             <tag> 模糊拓边 </tag>
             
-            <tag> 镜像 </tag>
+            <tag> 画中画 </tag>
+            
+            <tag> 深度处理 </tag>
+            
+            <tag> 关键帧 </tag>
+            
+            <tag> 滤镜 </tag>
             
         </tags>
       
@@ -248,19 +248,19 @@
       
         <tags>
             
-            <tag> 剪辑 </tag>
-            
-            <tag> 画中画 </tag>
-            
             <tag> 倍速 </tag>
             
             <tag> 背景音乐 </tag>
+            
+            <tag> 剪辑 </tag>
             
             <tag> 水印 </tag>
             
             <tag> 片头 </tag>
             
             <tag> 剪裁 </tag>
+            
+            <tag> 画中画 </tag>
             
         </tags>
       
