@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 抖音 </tag>
-            
             <tag> 自动发布 </tag>
+            
+            <tag> 抖音 </tag>
             
             <tag> 头条 </tag>
             
@@ -78,117 +78,6 @@
     
     
     <entry>
-      <title>裂变利器</title>
-      <link href="/2020/08/22/videofission/"/>
-      <url>/2020/08/22/videofission/</url>
-      
-        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>做视频自媒体的必备利器，将一个视频裂变成多个视频，每个都不重复，每个视频具有不同的片头，配音，字幕，特效，背景音乐等。</p><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/pages?sort_id=2730283&doc_id=879017" target="_blank" rel="noopener">详细文档</a></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg" target="_blank" rel="noopener">https://pan.baidu.com/s/1h1IdAJOw9i3o3Wxylkl_Eg</a>  密码:sek9</p><h3 id="功能点介绍"><a href="#功能点介绍" class="headerlink" title="功能点介绍"></a>功能点介绍</h3><h4 id="裂变数量"><a href="#裂变数量" class="headerlink" title="裂变数量"></a>裂变数量</h4><p>表示一个视频裂变成n个，比如一共处理3个视频，裂变数量为2， 那么最终生成6个视频</p><h4 id="水平镜像"><a href="#水平镜像" class="headerlink" title="水平镜像"></a>水平镜像</h4><p>将视频进行水平镜像处理</p><h4 id="分割"><a href="#分割" class="headerlink" title="分割"></a>分割</h4><p>将视频分段后重新随机合并，参数是分段的间隔</p><p><strong>注意</strong> 如果选择了分割，一定要选择背景音乐，因为分割后随机合并，音乐也是乱的。</p><h4 id="转场"><a href="#转场" class="headerlink" title="转场"></a>转场</h4><p>上面进行分割后才能添加转场效果，否则勾选也无效</p><h4 id="贴图"><a href="#贴图" class="headerlink" title="贴图"></a>贴图</h4><p>就是图片水印，支持小图标和大图，小图在顶部居中位置，大图会铺满视频，小图和大图的界限是视频宽度的一半<br>选择一个文件夹，将图片放到文件夹内，自动选择图片添加，有内置</p><h4 id="特效"><a href="#特效" class="headerlink" title="特效"></a>特效</h4><p>就是透明的gif或者视频<br>选择一个文件夹，将特效放到文件夹内，自动选择特效添加，有内置</p><h4 id="字幕"><a href="#字幕" class="headerlink" title="字幕"></a>字幕</h4><p>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><pre><code>00ff00#求收藏|求点赞|求关注0000ff#爱我|你就关注我ff00ff#不点个赞么|不收藏一个么ff00ff#喜欢我|就关注我吧</code></pre><p>格式说明<br><code>#</code> 前面为字体颜色，后面为字幕的内容<code>|</code> 为每一条的分隔，每一条字幕显示3秒种<br>上面一行的字幕会应用到一个视频上，按顺序添加，字幕不够时随机选择。教程中有演示。<br>比如有6个视频，但是只有4条字幕，那么最后两条视频会随机选择两条字幕</p><h4 id="背景音乐"><a href="#背景音乐" class="headerlink" title="背景音乐"></a>背景音乐</h4><p>给视频替换背景音乐<br>选择一个文件夹，将音乐放到文件夹内，自动选择音乐添加，有内置</p><h4 id="定制片头"><a href="#定制片头" class="headerlink" title="定制片头"></a>定制片头</h4><p>注意，需要先填写百度语音参数，免费的。申请很简单。<br>注意，window不用要记事本编辑字幕文本，可以下载个sublime，用了记事本后字幕就无法读取了。</p><p>效果，给每个视频生成不一样的片头。</p><pre><code>那些年 我们一起追过的女孩如果你的英语老师 长这样 你还会逃课吗如果她是合租女室友 你还会 天天打王者吗如果她是舞蹈老师 你会不会爱上跳舞</code></pre><p>格式说明<br>一行生成一个片头，空格表示换行，效果见视频演示。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/165158_32b331c9_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><h2 id="软件目录说明"><a href="#软件目录说明" class="headerlink" title="软件目录说明"></a>软件目录说明</h2><p>箭头所指的文件夹如果你想删除，都可以删掉，不过建议不要删，把资源放默认的文件夹内就省的每次选择了。</p><p><img src="https://images.gitee.com/uploads/images/2020/0821/170743_92ffc1e5_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>mac 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/164913_b9c8e79b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p><p>windows 界面<br><img src="https://images.gitee.com/uploads/images/2020/0821/231757_9bd1a74b_1093073.png" alt="输入图片说明" title="屏幕截图.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 特效 </tag>
-            
-            <tag> 视频裂变 </tag>
-            
-            <tag> 镜像 </tag>
-            
-            <tag> 分割 </tag>
-            
-            <tag> 转场 </tag>
-            
-            <tag> 倍速 </tag>
-            
-            <tag> 背景音乐 </tag>
-            
-            <tag> 定制片头 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>横竖屏转换器</title>
-      <link href="/2020/07/04/videohvshape/"/>
-      <url>/2020/07/04/videohvshape/</url>
-      
-        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><p>本软件主要功能为小视频的横竖屏转换，7种模式14种效果。后两种具体效果要看视频演示,图片无法展示。</p><p>此转换器也可以用于去重和搬运。</p><blockquote><p>7种模式</p></blockquote><ul><li>背景颜色</li><li>背景图片</li><li>模糊拓边</li><li>3p叠加</li><li>3p反转叠加</li><li>单个分段3p叠加轮流</li><li>3p叠加轮流</li></ul><blockquote><p>其余辅助功能</p></blockquote><ul><li>描边文字</li><li>随机背景音乐</li><li>添加片头</li><li>添加片尾</li></ul><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938544980907.jpg" alt=""></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><em>百度云</em><br>链接:<a href="https://pan.baidu.com/s/1emFASCLB9cRjcrogOdK0zA" target="_blank" rel="noopener">https://pan.baidu.com/s/1emFASCLB9cRjcrogOdK0zA</a>  密码:eur8<br><em>城通网盘</em><br>横竖屏转换器: <a href="https://n802.com/dir/24885990-39803430-cdb416" target="_blank" rel="noopener">https://n802.com/dir/24885990-39803430-cdb416</a><br>密码：279175</p><p>或者前往官网查看最新地址：<a href="https://fstongxue.gitee.io/">https://fstongxue.gitee.io/</a></p><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><p><a href="https://www.bilibili.com/video/BV1b54y1q77y/" target="_blank" rel="noopener">样式一</a><br><a href="https://www.bilibili.com/video/BV1T54y1q7T5/" target="_blank" rel="noopener">样式二</a><br><a href="https://www.bilibili.com/video/BV1qV411678M/" target="_blank" rel="noopener">样式三</a><br><a href="https://www.bilibili.com/video/BV1LT4y1E7hR/" target="_blank" rel="noopener">样式四</a><br><a href="https://www.bilibili.com/video/BV1pT4y1E7Db/" target="_blank" rel="noopener">样式五</a><br><a href="https://www.bilibili.com/video/BV12K411n79P/" target="_blank" rel="noopener">样式六</a><br><a href="https://www.bilibili.com/video/BV14V41167RL/" target="_blank" rel="noopener">样式七</a></p><h2 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h2><p>这是原视频<br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938596525655.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938597365761.jpg" alt=""></p><h4 id="样式1-背景颜色"><a href="#样式1-背景颜色" class="headerlink" title="样式1 背景颜色"></a>样式1 背景颜色</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938603906670.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938604033770.jpg" alt=""></p><h4 id="样式2-背景图片"><a href="#样式2-背景图片" class="headerlink" title="样式2 背景图片"></a>样式2 背景图片</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938611731994.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938612073829.jpg" alt=""></p><h4 id="样式3-模糊拓边"><a href="#样式3-模糊拓边" class="headerlink" title="样式3 模糊拓边"></a>样式3 模糊拓边</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938610126584.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938610255625.jpg" alt=""></p><h4 id="样式4-3屏叠加"><a href="#样式4-3屏叠加" class="headerlink" title="样式4 3屏叠加"></a>样式4 3屏叠加</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938602711367.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938620404092.jpg" alt=""></p><h4 id="样式5-3屏反转叠加"><a href="#样式5-3屏反转叠加" class="headerlink" title="样式5 3屏反转叠加"></a>样式5 3屏反转叠加</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938603114449.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938603259604.jpg" alt=""></p><h4 id="样式6-单个分段3p叠加轮流"><a href="#样式6-单个分段3p叠加轮流" class="headerlink" title="样式6 单个分段3p叠加轮流"></a>样式6 单个分段3p叠加轮流</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938609365455.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938614804468.jpg" alt=""></p><h4 id="样式7-3屏叠加轮流"><a href="#样式7-3屏叠加轮流" class="headerlink" title="样式7 3屏叠加轮流"></a>样式7 3屏叠加轮流</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938604812766.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-07-04-15938619959766.jpg" alt=""></p><h2 id="软件使用"><a href="#软件使用" class="headerlink" title="软件使用"></a>软件使用</h2><h4 id="windows-系统"><a href="#windows-系统" class="headerlink" title="windows 系统"></a>windows 系统</h4><p>双击exe文件 即可打开</p><h4 id="mac-系统"><a href="#mac-系统" class="headerlink" title="mac 系统"></a>mac 系统</h4><p>见官网通用教程</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 横竖屏转换器 </tag>
-            
-            <tag> 背景颜色 </tag>
-            
-            <tag> 背景图片 </tag>
-            
-            <tag> 模糊拓边 </tag>
-            
-            <tag> 3p叠加 </tag>
-            
-            <tag> 3p叠加轮流 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>短视频搬运专业版</title>
-      <link href="/2020/06/13/videoeditorpro/"/>
-      <url>/2020/06/13/videoeditorpro/</url>
-      
-        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本软件所有操作都是为了搬运定制，我已将建议参数保存到配置1，直接从配置1加载即可显示。目前具有以下功能：</p><ul><li>格式转换</li><li>减去片头片尾</li><li>帧率调整</li><li>去除水印</li><li>竖屏剪裁和视频剪裁</li><li>分辨率调整</li><li>滤镜(对比度，亮度，饱和度，伽玛，色调)</li><li>锐化</li><li>深度处理</li><li>关键帧处理</li><li>水平镜像</li><li>加工样式(模糊拓边，上下叠加，插入背景颜色，插入背景图片)</li><li>自身画中画</li><li>顶部文字（支持多行，描边，背景，自动读取文件名）</li><li>底部文字（支持多行，描边，背景，自动读取文件名）</li><li>倍速播放</li><li>随机背景音乐</li><li>添加片头片尾</li><li>视频转场过度和自定义转场</li><li>图片水印和相框</li><li>添加gif</li><li>视频裂变</li></ul><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-editer_pro.png" alt="editer_pro"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><em>百度云</em><br>链接: <a href="https://pan.baidu.com/s/1aAkt4BNS8puN3x_u5hH8pg" target="_blank" rel="noopener">https://pan.baidu.com/s/1aAkt4BNS8puN3x_u5hH8pg</a>  密码:643v</p><p><em>城通网盘</em><br>链接: <a href="https://n802.com/dir/24885990-39450167-45a033" target="_blank" rel="noopener">https://n802.com/dir/24885990-39450167-45a033</a><br>密码：279175</p><p>或者前往官网查看最新地址：<a href="https://fstongxue.gitee.io/">https://fstongxue.gitee.io/</a></p><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><p><a href="https://www.bilibili.com/video/BV1G5411W7pb/" target="_blank" rel="noopener">竖屏剪裁</a><br><a href="https://www.bilibili.com/video/BV1Rz4y197SW/" target="_blank" rel="noopener">水平镜像</a><br><a href="https://www.bilibili.com/video/BV1gC4y1a7xh/" target="_blank" rel="noopener">滤镜-锐化-深度-关键帧</a><br><a href="https://www.bilibili.com/video/BV1QA411q7mb/" target="_blank" rel="noopener">画中画</a><br><a href="https://www.bilibili.com/video/BV1Yf4y127jz/" target="_blank" rel="noopener">加工样式</a><br><a href="https://www.bilibili.com/video/BV1hi4y137A8/" target="_blank" rel="noopener">滑动功能</a><br><a href="https://www.bilibili.com/video/BV1mi4y1s7UL/" target="_blank" rel="noopener">高级文字水印</a><br><a href="https://www.bilibili.com/video/BV1U5411h7FD/" target="_blank" rel="noopener">相框</a><br><a href="https://www.bilibili.com/video/BV1JK411n7x9/" target="_blank" rel="noopener">gif</a><br><a href="https://www.bilibili.com/video/BV1Rp4y1i7xn/" target="_blank" rel="noopener">转场</a><br><a href="https://github.com/suifengqjn/videoWater/blob/master/README_3.md" target="_blank" rel="noopener">其余功能</a></p><h2 id="加工样式说明"><a href="#加工样式说明" class="headerlink" title="加工样式说明"></a>加工样式说明</h2><p>这是原视频<br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918586632488.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918586943550.jpg" alt=""></p><h4 id="样式1-模糊拓边"><a href="#样式1-模糊拓边" class="headerlink" title="样式1 模糊拓边"></a>样式1 模糊拓边</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918587394515.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918587467884.jpg" alt=""></p><h4 id="样式2-上下叠加"><a href="#样式2-上下叠加" class="headerlink" title="样式2 上下叠加"></a>样式2 上下叠加</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918588340066.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918588417831.jpg" alt=""></p><h4 id="样式3-背景颜色"><a href="#样式3-背景颜色" class="headerlink" title="样式3 背景颜色"></a>样式3 背景颜色</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918588936561.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918589021049.jpg" alt=""></p><h4 id="样式4-背景图片"><a href="#样式4-背景图片" class="headerlink" title="样式4 背景图片"></a>样式4 背景图片</h4><p><img src="http://cdn.qiniu.freetop.ren/2020-06-12-15919461693061.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-12-15919461849993.jpg" alt=""></p><h2 id="文字水印说明-对于批量操作，此项非常重要，仔细阅读"><a href="#文字水印说明-对于批量操作，此项非常重要，仔细阅读" class="headerlink" title="文字水印说明(对于批量操作，此项非常重要，仔细阅读)"></a>文字水印说明(对于批量操作，此项非常重要，仔细阅读)</h2><p>注意：</p><ol><li>文字描边效果和背景效果只能二选一 </li><li>文字中空格即换行，可以通过多个空格实现多行效果</li></ol><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918461303080.jpg" alt=""></p><p>这是文字水印也是专门为了批量化定制的，如上图所示，如果写了内容，那么所有视频上显示的文字都是一样的，这显然不是我们想要的效果(如果你想要所有视频显示一样的文字，那么内容里面填文字即可)。那么这里采用了读取文件名的方式。文件名以下划线<code>_</code>分割成顶部文字和底部文字，然后以空格表示换行。使用文件名作为内容的时候，内容框内需要为空。</p><p>简单点解释就是，下划线<code>_</code>前面为顶部文字，后面为底部文字，空格代表换行。</p><p>举例说明(与后缀名无关)：</p><h4 id="实现-顶部一行文字-底部两行文字"><a href="#实现-顶部一行文字-底部两行文字" class="headerlink" title="实现 顶部一行文字 底部两行文字"></a>实现 顶部一行文字 底部两行文字</h4><p>文件名 <code>我是钢铁侠_推荐指数 4星.mp4</code><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918626519417.jpg" alt=""></p><h4 id="实现-顶部两行文字-底部一行文字"><a href="#实现-顶部两行文字-底部一行文字" class="headerlink" title="实现 顶部两行文字 底部一行文字"></a>实现 顶部两行文字 底部一行文字</h4><p>文件名 <code>男人随时随地 撩妹时刻不能忘_推荐指数5星.mp4</code><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918626350217.jpg" alt=""></p><h4 id="实现-顶部没有文字-底部两行文字"><a href="#实现-顶部没有文字-底部两行文字" class="headerlink" title="实现 顶部没有文字 底部两行文字"></a>实现 顶部没有文字 底部两行文字</h4><p>文件名 <code>_男人随时随地 撩妹时刻不能忘.mp4</code><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918632432992.jpg" alt=""></p><h4 id="实现-顶部一行文字-底部没有文字"><a href="#实现-顶部一行文字-底部没有文字" class="headerlink" title="实现 顶部一行文字 底部没有文字"></a>实现 顶部一行文字 底部没有文字</h4><p>文件名 <code>我是钢铁侠.mp4</code><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918632540274.jpg" alt=""></p><p>以此类推没有文字，1行，2行，3行，4行…的效果。所以你要实现每个视频添加不同的文字和不同文字效果的时候，提前编辑好视频的文件名即可。</p><p>距离参数说明：顶部文字的距离是指距顶部的距离，底部文字的距离是指距底部的距离，填<code>-1</code>则由软件自动计算距离。</p><h2 id="软件使用"><a href="#软件使用" class="headerlink" title="软件使用"></a>软件使用</h2><h4 id="windows-系统"><a href="#windows-系统" class="headerlink" title="windows 系统"></a>windows 系统</h4><p>双击editer_pro.exe(editer_pro) 即可打开</p><h4 id="mac-系统"><a href="#mac-系统" class="headerlink" title="mac 系统"></a>mac 系统</h4><p>见官网通用教程</p><h2 id="效果演示"><a href="#效果演示" class="headerlink" title="效果演示"></a>效果演示</h2><p>这里只用了加工样式，画中画，和文字这三种效果。</p><p><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918591231831.jpg" alt=""><br><img src="http://cdn.qiniu.freetop.ren/2020-06-11-15918591336385.jpg" alt=""></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 背景图片 </tag>
-            
-            <tag> 模糊拓边 </tag>
-            
-            <tag> 镜像 </tag>
-            
-            <tag> 深度处理 </tag>
-            
-            <tag> 关键帧 </tag>
-            
-            <tag> 滤镜 </tag>
-            
-            <tag> 画中画 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>全网视频采集器</title>
       <link href="/2020/05/02/videocollector/"/>
       <url>/2020/05/02/videocollector/</url>
@@ -205,11 +94,11 @@
       
         <tags>
             
+            <tag> 抖音 </tag>
+            
             <tag> 批量 </tag>
             
             <tag> 视频采集 </tag>
-            
-            <tag> 抖音 </tag>
             
             <tag> 快手 </tag>
             
@@ -222,80 +111,6 @@
             <tag> 最右 </tag>
             
             <tag> 微博 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>AI全自动原创视频生成器</title>
-      <link href="/2020/03/29/videomaker/"/>
-      <url>/2020/03/29/videomaker/</url>
-      
-        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>可批量生成原创视频，给视频添加配音和字幕，还能视频合成，非常适合电影解说，抖音带货等视频制作，操作很简单，只需要准备素材选择模式，即可批量生成原创视频</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-05-10-15891109560305.jpg" alt="-w905"></p><h2 id="原创模式"><a href="#原创模式" class="headerlink" title="原创模式"></a>原创模式</h2><p>目前支持五种模式</p><h3 id="模式一：单视频-文案"><a href="#模式一：单视频-文案" class="headerlink" title="模式一：单视频+文案"></a>模式一：单视频+文案</h3><p>一个视频配一个文案，软件将自动把文案转化成字幕以及真人发音，把视频和字幕添加到视频上<br>此模式适合电影解说，新闻讲解等等</p><h3 id="模式二：多视频-文案"><a href="#模式二：多视频-文案" class="headerlink" title="模式二：多视频+文案"></a>模式二：多视频+文案</h3><p>多个视频会随机合成一个视频,然后把文案转化成字幕以及真人发音，把视频和字幕添加到视频上<br>此模式适合抖音带货等</p><h3 id="模式三：多图片-文案"><a href="#模式三：多图片-文案" class="headerlink" title="模式三：多图片+文案"></a>模式三：多图片+文案</h3><p>多个图片会随机合成一个视频,然后把文案转化成字幕以及真人发音，把视频和字幕添加到视频上<br>此模式适合大批量却又苦于找不到视频素材的情况</p><h3 id="模式四：单视频混剪"><a href="#模式四：单视频混剪" class="headerlink" title="模式四：单视频混剪"></a>模式四：单视频混剪</h3><p>适合抖音带货，或者搬运类的影视混剪</p><h3 id="模式五：文字转语音"><a href="#模式五：文字转语音" class="headerlink" title="模式五：文字转语音"></a>模式五：文字转语音</h3><p>现在头条也出了音频的创作专区，应广大用户的需求，添加这个功能，将txt文件批量放入video目录即可。</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p><em>百度云</em><br>链接:<a href="https://pan.baidu.com/s/1jITrzwFGg0sFgazBPWdn3Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1jITrzwFGg0sFgazBPWdn3Q</a>  密码:kvbs</p><p><em>城通网盘</em><br>链接:<a href="https://474b.com/dir/24885990-38968538-db8573" target="_blank" rel="noopener">https://474b.com/dir/24885990-38968538-db8573</a>  密码:279175</p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><p><a href="https://github.com/suifengqjn/videoMaker/blob/master/voicer.md" target="_blank" rel="noopener">查看播音人详情</a></p><p>使用前必须要看视频教程<br><a href="https://github.com/suifengqjn/videoMaker/blob/master/shipin.md" target="_blank" rel="noopener">视频教程</a></p><p><a href="https://www.yuque.com/fengshi-zm9in/bx4gg5" target="_blank" rel="noopener">文档</a></p><p>准备好素材，原创合成模式即可批量生成原创视频</p><p>目前支持以下功能</p><ul><li><input checked="" disabled="" type="checkbox"> [字幕提取] </li><li><input checked="" disabled="" type="checkbox"> [真人发音]</li><li><input checked="" disabled="" type="checkbox"> [文字转语音]</li><li><input checked="" disabled="" type="checkbox"> [文字转字幕]</li><li><input checked="" disabled="" type="checkbox"> [视频合成]</li><li><input checked="" disabled="" type="checkbox"> [图片合成视频]</li><li><input checked="" disabled="" type="checkbox"> [字幕添加]</li><li><input checked="" disabled="" type="checkbox"> [字幕背景条添加]</li><li><input checked="" disabled="" type="checkbox"> [字幕背景条覆盖]</li><li><input checked="" disabled="" type="checkbox"> [去片头]</li><li><input checked="" disabled="" type="checkbox"> [去片尾]</li><li><input checked="" disabled="" type="checkbox"> [去水印]</li><li><input checked="" disabled="" type="checkbox"> [添加文字水印] </li><li><input checked="" disabled="" type="checkbox"> [添加跑马灯文字水印] </li><li><input checked="" disabled="" type="checkbox"> [添加图片水印]</li><li><input checked="" disabled="" type="checkbox"> [添加片头] </li><li><input checked="" disabled="" type="checkbox"> [添加片尾] </li></ul><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><p><img src="https://github.com/suifengqjn/demoimages/blob/master/other/block.jpg?raw=true" alt=""></p><h2 id="版本更新"><a href="#版本更新" class="headerlink" title="版本更新"></a>版本更新</h2><h3 id="1-0"><a href="#1-0" class="headerlink" title="1.0"></a>1.0</h3><p>字幕提取<br>真人发音<br>文字转语<br>文字转字<br>视频合<br>图片合成视<br>字幕添<br>字幕背景条添<br>字幕背景条覆<br>添加文字水印<br>添加跑马灯文字水印<br>添加图片水<br>添加片头<br>添加片尾</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h3><p>支持长文本合成语音<br>语句之间增加停顿功能，使效果更加自然</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1.2"></a>1.2</h3><p>增加参数检测功能</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1.3"></a>1.3</h3><p>增加单视频混剪模式<br>增加文字转语音模式<br>完善字幕遮盖功能<br>增加剪辑策略<br>增加去片头<br>增加去水印<br>增加背景音乐音量调节<br>修改批量合成模式(素材添加方式，以及支持多文案)<br>修复字幕问题</p><h2 id="关注公众号-1"><a href="#关注公众号-1" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术<br><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 配音 </tag>
-            
-            <tag> 自媒体 </tag>
-            
-            <tag> 原创视频 </tag>
-            
-            <tag> 字幕 </tag>
-            
-            <tag> 电影解说 </tag>
-            
-            <tag> 抖音带货 </tag>
-            
-            <tag> 图片合成视频 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>视频批量伪原创剪辑器</title>
-      <link href="/2020/01/28/videowater/"/>
-      <url>/2020/01/28/videowater/</url>
-      
-        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><blockquote><table><tr><td bgcolor=#00BFFF>此软件已停止更新，功能已全部融合到AI快剪</td></tr></table></blockquote><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p><a href="https://share.plvideo.cn/front/video/preview?vid=65f8c99d3f6dae0bab60a49d429c9a98_6" target="_blank" rel="noopener">首次使用教程</a></p><p><a href="https://github.com/suifengqjn/videoWater/blob/master/README_3.md" target="_blank" rel="noopener">视频教程</a></p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/2020-05-13-r_8-1.png" alt="r_8"></p><h2 id="打包程序下载"><a href="#打包程序下载" class="headerlink" title="打包程序下载"></a>打包程序下载</h2><p>支持 mac win32 win64 系统<br>选择对应系统下载，然后解压即可</p><p>下载自己需要的版本对应系统的压缩包即可，里面有多个版本</p><p><em>百度云</em></p><p>链接:<a href="https://pan.baidu.com/s/1e6QWlLDRv0cA_OQh8_K8WQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1e6QWlLDRv0cA_OQh8_K8WQ</a>  密码:tfmf</p><p><em>城通网盘</em><br><a href="https://n802.com/dir/24885990-39156730-9e5824" target="_blank" rel="noopener">https://n802.com/dir/24885990-39156730-9e5824</a><br>提取码：279175</p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><p>视频自媒体批量视频伪原创剪辑器，秒杀市面上绝大部分收费软件。<br>针对视频自媒体运营者，包括原创和伪原创，这一款软件就足够了。</p><p>填好配置信息后，一键启动即可处理成千上万个视频。每次使用只需双击启动即可</p><p>下面的任意一个操作，都会修改视频的md5，也就是所谓的md5去重。<br>经过本软件处理后，极高概率通过各大自媒体平台的原创审核</p><ul><li><p>已完成</p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频格式转换] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[帧率设置] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[比特率设置] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[剪掉片头] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[剪掉片尾] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频剪裁]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[去除水印] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频旋转] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频镜像] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[调整视频分辨率] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频压缩] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加文字水印] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加跑马灯文字水印] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加图片水印]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[画中画]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加随机背景音乐]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[倍速播放(加速减速)]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加片头] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[添加片尾] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频分段] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频合成]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频自定义分段] </p></li><li><input checked="" disabled="" type="checkbox"> <p>[视频添加背景颜色或图片]</p></li><li><input checked="" disabled="" type="checkbox"> <p>[模糊拓边效果]</p></li></ul><h2 id="程序使用"><a href="#程序使用" class="headerlink" title="程序使用"></a>程序使用</h2><h4 id="windows-系统"><a href="#windows-系统" class="headerlink" title="windows 系统"></a>windows 系统</h4><p>双击editer.exe(editer) 即可打开</p><h4 id="mac-系统"><a href="#mac-系统" class="headerlink" title="mac 系统"></a>mac 系统</h4><p>cd 进入到软件所在文件夹<br>执行 ./editer </p><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p><a href="https://github.com/suifengqjn/videoWater/blob/master/QREADME.md" target="_blank" rel="noopener">常见问题</a></p><h2 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a>关注公众号</h2><ul><li>公众号不定期分享密钥</li><li>实时推送软件更新</li><li>自媒体各种软件资料</li><li>分享免费软件</li><li>分享编程技术</li></ul><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 剪辑 </tag>
-            
-            <tag> 倍速 </tag>
-            
-            <tag> 背景音乐 </tag>
-            
-            <tag> 画中画 </tag>
-            
-            <tag> 水印 </tag>
-            
-            <tag> 片头 </tag>
-            
-            <tag> 剪裁 </tag>
             
         </tags>
       
