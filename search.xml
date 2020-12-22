@@ -20,6 +20,8 @@
       
         <tags>
             
+            <tag> 轮询任务 </tag>
+            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
@@ -28,8 +30,6 @@
             
             <tag> 原创视频 </tag>
             
-            <tag> 轮询任务 </tag>
-            
         </tags>
       
     </entry>
@@ -37,7 +37,7 @@
     
     
     <entry>
-      <title>AI发布器</title>
+      <title>AI发布</title>
       <link href="/2020/12/04/videopublish/"/>
       <url>/2020/12/04/videopublish/</url>
       
@@ -55,8 +55,6 @@
             
             <tag> 抖音 </tag>
             
-            <tag> 轮询任务 </tag>
-            
             <tag> 自动发布 </tag>
             
             <tag> 头条 </tag>
@@ -64,6 +62,8 @@
             <tag> 西瓜 </tag>
             
             <tag> 定时任务 </tag>
+            
+            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -111,11 +111,11 @@
     
     
     <entry>
-      <title>AI采集器(免费)</title>
+      <title>AI采集(免费)</title>
       <link href="/2020/05/02/videocollector/"/>
       <url>/2020/05/02/videocollector/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,头条,全民,好看,皮皮虾,最右,微视，不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>下载目录默认为桌面，自己也可以修改</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1Vwr6HkvGgd8ALaZ1HzDMZA" target="_blank" rel="noopener">https://pan.baidu.com/s/1Vwr6HkvGgd8ALaZ1HzDMZA</a> 密码:8ogf</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/downloader.png" alt=""></p><h2 id="关注公众号-AI全自动视频剪辑"><a href="#关注公众号-AI全自动视频剪辑" class="headerlink" title="关注公众号 AI全自动视频剪辑"></a>关注公众号 AI全自动视频剪辑</h2><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p><p>回复<code>采集器卡号</code>获取激活码</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本软件支持以下各大视频平台</p><pre><code>无水印平台：抖音,快手,头条,全民,好看,皮皮虾,最右,微视，不断增加中...可能有水印平台：哔哩哔哩,半次元,爱奇艺,芒果TV,糖豆广场舞,斗鱼视频秒拍,微博,腾讯视频,TikTok,网易云音乐,音悦台,极客时间,联合新闻网</code></pre><p>如果是网页版，比如哔哩哔哩，输入视频地址即可，<br>比如：<code>https://www.bilibili.com/video/BV1PC4y1W7GM</code></p><p>如果是app版，比如抖音，则 通过视频分享按钮，点击复制链接，取出视频地址<br>比如：<code>https://v.douyin.com/KFqXYL/</code></p><p>输入地址后，点击下载即可</p><p>下载目录默认为桌面，自己也可以修改</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>百度云<br>链接:<a href="https://pan.baidu.com/s/1Vwr6HkvGgd8ALaZ1HzDMZA" target="_blank" rel="noopener">https://pan.baidu.com/s/1Vwr6HkvGgd8ALaZ1HzDMZA</a> 密码:8ogf</p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="http://cdn.qiniu.freetop.ren/downloader.png" alt=""></p><h2 id="关注公众号-AI视频工作室"><a href="#关注公众号-AI视频工作室" class="headerlink" title="关注公众号 AI视频工作室"></a>关注公众号 AI视频工作室</h2><p><img src="http://cdn.qiniu.freetop.ren/gzh.jpg" alt=""></p><p>回复<code>采集器卡号</code>获取激活码</p>]]></content>
       
       
       <categories>
