@@ -20,8 +20,6 @@
       
         <tags>
             
-            <tag> 轮询任务 </tag>
-            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
@@ -29,6 +27,8 @@
             <tag> 批量生成 </tag>
             
             <tag> 原创视频 </tag>
+            
+            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -55,6 +55,8 @@
             
             <tag> 抖音 </tag>
             
+            <tag> 轮询任务 </tag>
+            
             <tag> 自动发布 </tag>
             
             <tag> 头条 </tag>
@@ -62,8 +64,6 @@
             <tag> 西瓜 </tag>
             
             <tag> 定时任务 </tag>
-            
-            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -142,6 +142,39 @@
             <tag> 微视 </tag>
             
             <tag> 最右 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>联系我们</title>
+      <link href="/2020/01/01/contract/"/>
+      <url>/2020/01/01/contract/</url>
+      
+        <content type="html"><![CDATA[<h3 id="公众号"><a href="#公众号" class="headerlink" title="公众号"></a>公众号</h3><p><img src="https://images.gitee.com/uploads/images/2020/1229/204017_4cd7fe72_1093073.png" alt="公众号"></p><ul><li>公众号不定期分享优惠券</li><li>实时推送软件更新</li><li>免费分享自媒体各种软件资料</li><li>分享免费的软件</li><li>发布最新的干货教程</li></ul><hr><h3 id="QQ群"><a href="#QQ群" class="headerlink" title="QQ群"></a>QQ群</h3><p>QQ 群是官方的售后通道，进群先看群公告，软件使用问题看教程即可，非使用问题看常见问题即可。遇到问题请先自行在文档中查看，文档和教程基本能解决95%以上的问题。</p><blockquote><p>QQ群: 290114652   进群答案:视频剪辑</p></blockquote><p><img src="https://images.gitee.com/uploads/images/2020/1229/204513_1219ab2c_1093073.png" alt="QQ群"></p><hr><h3 id="官网地址"><a href="#官网地址" class="headerlink" title="官网地址"></a>官网地址</h3><p>官网地址: <a href="https://fstongxue.gitee.io">https://fstongxue.gitee.io</a><br>备用地址: <a href="http://www.freetop.ren/" target="_blank" rel="noopener">www.freetop.ren</a></p><hr><h3 id="教程地址"><a href="#教程地址" class="headerlink" title="教程地址"></a>教程地址</h3><p>所有软件的教程都在这里，左侧目录可以展开</p><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/pages" target="_blank" rel="noopener">点击查看</a></p><h3 id="视频发布平台"><a href="#视频发布平台" class="headerlink" title="视频发布平台"></a>视频发布平台</h3><p>所有教程都会发布到B站</p><p><a href="https://space.bilibili.com/20858376" target="_blank" rel="noopener">点击查看</a></p><hr><h3 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h3><p>会发布一些干货教程<br><a href="https://www.zhihu.com/people/fengshitongxue" target="_blank" rel="noopener">点击查看</a></p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 联系 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 公众号 </tag>
+            
+            <tag> QQ群 </tag>
+            
+            <tag> 官网地址 </tag>
+            
+            <tag> 视频发布平台 </tag>
+            
+            <tag> 知乎 </tag>
             
         </tags>
       
