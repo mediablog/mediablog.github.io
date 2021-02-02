@@ -8,7 +8,7 @@
       <link href="/2020/12/06/videofactory/"/>
       <url>/2020/12/06/videofactory/</url>
       
-        <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>软件支持 windows版 和 mac版。</p><p>本软件支持输入关键词即可批量生成原创视频<br>也可以输出自定义url生成原创视频</p><p><strong>如何实现全自动视频 制作 -&gt; 剪辑 -&gt; 发布</strong></p><ol><li>用AI视频工厂的任务功能1天24小时不断的制作视频，然后输出到AI快剪</li><li>用AI快剪的任务功能1天24小时不断的剪辑视频，然后输出到自动发布器</li><li>用自动发布器的任务功能定时发布视频，实现躺着赚钱</li></ol><h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><a href="https://www.bilibili.com/video/BV1ip4y1r7j6" target="_blank" rel="noopener">请看案例</a></p><h3 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h3><p><img src="/2020/12/06/videofactory/16122763238326.jpg" alt="关键词"></p><p><img src="/2020/12/06/videofactory/16122763436366.jpg" alt><br><img src="http://cdn.qiniu.freetop.ren/ai_factory_1.png" alt="配置区"></p><hr><h3 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h3><p><a href="https://www.bilibili.com/video/BV1Ky4y1i7X7/" target="_blank" rel="noopener">使用教程</a></p><hr><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><strong>百度网盘</strong><br>链接:<a href="https://pan.baidu.com/s/1VsOKnQUi8AlsmKmBz81NHQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1VsOKnQUi8AlsmKmBz81NHQ</a>  密码:wqyf</p><p><strong>城通网盘</strong><br>链接: <a href="https://n802.com/dir/24885990-41752685-71937e" target="_blank" rel="noopener">https://n802.com/dir/24885990-41752685-71937e</a> 密码:279175</p><hr><h3 id="视频的重复性说明"><a href="#视频的重复性说明" class="headerlink" title="视频的重复性说明"></a>视频的重复性说明</h3><ol><li>已经生成过的视频不会再次生成，本地有记录，在source/cache中，软件升级建议同时复制cache目录</li><li>关键词数据一个小时更新一次</li><li>假设有几个人同一时刻使用了同一关键词生成视频，首先，这种概率极低，其次，这几个人的字幕，配音，背景音乐，片头语，片尾语也不可能一模一样吧，假设这些参数也一样，那么可以通过自定义图的方式，就是在视频中插入几张自己的图片，避免跟别人一样。如果你觉得这样还不保险，那么使用AI快剪进行剪辑，加片头片尾，水印等等。</li></ol>]]></content>
+        <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>软件支持 windows版 和 mac版。</p><p>本软件支持输入关键词即可批量生成原创视频<br>也可以输出自定义url生成原创视频</p><p><strong>如何实现全自动视频 制作 -&gt; 剪辑 -&gt; 发布</strong></p><ol><li>用AI视频工厂的任务功能1天24小时不断的制作视频，然后输出到AI快剪</li><li>用AI快剪的任务功能1天24小时不断的剪辑视频，然后输出到自动发布器</li><li>用自动发布器的任务功能定时发布视频，实现躺着赚钱</li></ol><h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><a href="https://www.bilibili.com/video/BV1ip4y1r7j6" target="_blank" rel="noopener">请看案例</a></p><h3 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h3><p><img src="/2020/12/06/videofactory/16122763238326.jpg" alt="关键词"></p><p><img src="/2020/12/06/videofactory/16122763436366.jpg" alt></p><hr><h3 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h3><p><a href="https://www.bilibili.com/video/BV1Ky4y1i7X7/" target="_blank" rel="noopener">使用教程</a></p><hr><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><strong>百度网盘</strong><br>链接:<a href="https://pan.baidu.com/s/1VsOKnQUi8AlsmKmBz81NHQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1VsOKnQUi8AlsmKmBz81NHQ</a>  密码:wqyf</p><p><strong>城通网盘</strong><br>链接: <a href="https://n802.com/dir/24885990-41752685-71937e" target="_blank" rel="noopener">https://n802.com/dir/24885990-41752685-71937e</a> 密码:279175</p><hr><h3 id="视频的重复性说明"><a href="#视频的重复性说明" class="headerlink" title="视频的重复性说明"></a>视频的重复性说明</h3><ol><li>已经生成过的视频不会再次生成，本地有记录，在source/cache中，软件升级建议同时复制cache目录</li><li>关键词数据一个小时更新一次</li><li>假设有几个人同一时刻使用了同一关键词生成视频，首先，这种概率极低，其次，这几个人的字幕，配音，背景音乐，片头语，片尾语也不可能一模一样吧，假设这些参数也一样，那么可以通过自定义图的方式，就是在视频中插入几张自己的图片，避免跟别人一样。如果你觉得这样还不保险，那么使用AI快剪进行剪辑，加片头片尾，水印等等。</li></ol>]]></content>
       
       
       <categories>
@@ -20,8 +20,6 @@
       
         <tags>
             
-            <tag> 轮询任务 </tag>
-            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
@@ -29,6 +27,8 @@
             <tag> 批量生成 </tag>
             
             <tag> 原创视频 </tag>
+            
+            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -53,56 +53,17 @@
       
         <tags>
             
-            <tag> 自动发布 </tag>
-            
             <tag> 抖音 </tag>
+            
+            <tag> 轮询任务 </tag>
+            
+            <tag> 自动发布 </tag>
             
             <tag> 头条 </tag>
             
             <tag> 西瓜 </tag>
             
             <tag> 定时任务 </tag>
-            
-            <tag> 轮询任务 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>AI快剪</title>
-      <link href="/2020/09/06/aicut/"/>
-      <url>/2020/09/06/aicut/</url>
-      
-        <content type="html"><![CDATA[<h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><p>AI快剪是一款全自动的视频剪辑软件，包含剪辑，合成，去重，特效，配音，字幕，水印，后期处理，自动生成片头等等功能，可以用于视频搬运，给视频增加特效，图片合成视频，视频混剪，自动加配音字幕，电影解说，抖音混剪等等​。一个软件就堪比一个视频剪辑团队，即便你是小白，也能轻松上手，Ai快剪让你的视频剪辑效率提高千百倍​,而且不费劲。</p><p>举例：</p><ul><li>多个视频多个文案批量生成影视解说</li><li>图片批量合成视频+多个文案生成原创视频</li><li>多个视频片段随机合成+多个文案生成原创视频</li><li>单个视频+抠像+替换多个背景+多个文案生成原创视频</li><li>视频几十种去重方法+二剪生成原创视频</li><li>视频多种水印让自己的原创视频防止盗窃</li><li>视频各种批量剪辑操作，帧率,变速，压缩，倒放，镜像，画中画，gif，过度，音乐，片头片尾… </li><li>…</li></ul><p>这个一款跨平台的软件，支持win32 win64和mac，也能支持liunx 很多操作都支持批量，并且具有的不同的效果，比如每个视频可以有不同的特效，不同的背景，不同的字幕，不同的水印，不同的音乐，不同的片头片尾等等，软件专为批量而生。</p><hr><h3 id="软件支持系统"><a href="#软件支持系统" class="headerlink" title="软件支持系统"></a>软件支持系统</h3><p><strong>支持MAC 和 Windows系统</strong></p><hr><h3 id="软件界面预览"><a href="#软件界面预览" class="headerlink" title="软件界面预览"></a>软件界面预览</h3><p>界面区域<br><img src="/2020/09/06/aicut/1.jpg" alt></p><p>配音功能<br><img src="/2020/09/06/aicut/2.jpg" alt></p><p>水印功能<br><img src="/2020/09/06/aicut/3.jpg" alt></p><hr><h3 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h3><p>百度云：链接:<a href="https://pan.baidu.com/s/1dzs24anhHEdNEyO_W_kk6A" target="_blank" rel="noopener">https://pan.baidu.com/s/1dzs24anhHEdNEyO_W_kk6A</a>  密码:3tzg</p><p>城通网盘：链接: <a href="https://n802.com/dir/24885990-40655136-988253" target="_blank" rel="noopener">https://n802.com/dir/24885990-40655136-988253</a><br>密码: 279175</p><hr><h4 id="如何下载"><a href="#如何下载" class="headerlink" title="如何下载"></a>如何下载</h4><p>用百度网盘举例<br>先选择版本，一般选择最新版即可</p><p>比如目前最新版是3.7，点击进入<br><img src="/2020/09/06/aicut/4.jpg" alt></p><p>再选择自己对应的系统下载即可</p><p><img src="/2020/09/06/aicut/5.jpg" alt></p><hr><h3 id="软件教程"><a href="#软件教程" class="headerlink" title="软件教程"></a>软件教程</h3><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B?sort_id=2820748" target="_blank" rel="noopener">点击查看</a></p><hr><h3 id="交流群"><a href="#交流群" class="headerlink" title="交流群"></a>交流群</h3><blockquote><p>QQ群: 290114652   进群答案:视频剪辑</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI快剪 </tag>
-            
-            <tag> 剪辑 </tag>
-            
-            <tag> 去重 </tag>
-            
-            <tag> 配音 </tag>
-            
-            <tag> 解说 </tag>
-            
-            <tag> 裂变 </tag>
-            
-            <tag> AI全自动 </tag>
-            
-            <tag> 特效 </tag>
             
         </tags>
       
@@ -127,8 +88,6 @@
       
         <tags>
             
-            <tag> 特效 </tag>
-            
             <tag> AI批量制作MV </tag>
             
             <tag> 合成 </tag>
@@ -137,7 +96,48 @@
             
             <tag> 水印 </tag>
             
+            <tag> 特效 </tag>
+            
             <tag> 分辨率 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AI快剪</title>
+      <link href="/2020/09/06/aicut/"/>
+      <url>/2020/09/06/aicut/</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><p>AI快剪是一款全自动的视频剪辑软件，包含剪辑，合成，去重，特效，配音，字幕，水印，后期处理，自动生成片头等等功能，可以用于视频搬运，给视频增加特效，图片合成视频，视频混剪，自动加配音字幕，电影解说，抖音混剪等等​。一个软件就堪比一个视频剪辑团队，即便你是小白，也能轻松上手，Ai快剪让你的视频剪辑效率提高千百倍​,而且不费劲。</p><p>举例：</p><ul><li>多个视频多个文案批量生成影视解说</li><li>图片批量合成视频+多个文案生成原创视频</li><li>多个视频片段随机合成+多个文案生成原创视频</li><li>单个视频+抠像+替换多个背景+多个文案生成原创视频</li><li>视频几十种去重方法+二剪生成原创视频</li><li>视频多种水印让自己的原创视频防止盗窃</li><li>视频各种批量剪辑操作，帧率,变速，压缩，倒放，镜像，画中画，gif，过度，音乐，片头片尾… </li><li>…</li></ul><p>这个一款跨平台的软件，支持win32 win64和mac，也能支持liunx 很多操作都支持批量，并且具有的不同的效果，比如每个视频可以有不同的特效，不同的背景，不同的字幕，不同的水印，不同的音乐，不同的片头片尾等等，软件专为批量而生。</p><hr><h3 id="软件支持系统"><a href="#软件支持系统" class="headerlink" title="软件支持系统"></a>软件支持系统</h3><p><strong>支持MAC 和 Windows系统</strong></p><hr><h3 id="软件界面预览"><a href="#软件界面预览" class="headerlink" title="软件界面预览"></a>软件界面预览</h3><p>界面区域<br><img src="/2020/09/06/aicut/1.jpg" alt></p><p>配音功能<br><img src="/2020/09/06/aicut/2.jpg" alt></p><p>水印功能<br><img src="/2020/09/06/aicut/3.jpg" alt></p><hr><h3 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h3><p>百度云：链接:<a href="https://pan.baidu.com/s/1dzs24anhHEdNEyO_W_kk6A" target="_blank" rel="noopener">https://pan.baidu.com/s/1dzs24anhHEdNEyO_W_kk6A</a>  密码:3tzg</p><p>城通网盘：链接: <a href="https://n802.com/dir/24885990-40655136-988253" target="_blank" rel="noopener">https://n802.com/dir/24885990-40655136-988253</a><br>密码: 279175</p><hr><h4 id="如何下载"><a href="#如何下载" class="headerlink" title="如何下载"></a>如何下载</h4><p>用百度网盘举例<br>先选择版本，一般选择最新版即可</p><p>比如目前最新版是3.7，点击进入<br><img src="/2020/09/06/aicut/4.jpg" alt></p><p>再选择自己对应的系统下载即可</p><p><img src="/2020/09/06/aicut/5.jpg" alt></p><hr><h3 id="软件教程"><a href="#软件教程" class="headerlink" title="软件教程"></a>软件教程</h3><p><a href="https://gitee.com/fstongxue/fstongxue/wikis/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B?sort_id=2820748" target="_blank" rel="noopener">点击查看</a></p><hr><h3 id="交流群"><a href="#交流群" class="headerlink" title="交流群"></a>交流群</h3><blockquote><p>QQ群: 290114652   进群答案:视频剪辑</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 特效 </tag>
+            
+            <tag> AI快剪 </tag>
+            
+            <tag> 剪辑 </tag>
+            
+            <tag> 去重 </tag>
+            
+            <tag> 配音 </tag>
+            
+            <tag> 解说 </tag>
+            
+            <tag> 裂变 </tag>
+            
+            <tag> AI全自动 </tag>
             
         </tags>
       
@@ -162,11 +162,11 @@
       
         <tags>
             
-            <tag> 抖音 </tag>
-            
             <tag> 批量 </tag>
             
             <tag> 视频采集 </tag>
+            
+            <tag> 抖音 </tag>
             
             <tag> 快手 </tag>
             
