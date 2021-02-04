@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>AI洗稿</title>
+      <link href="/2021/02/05/aiwash/"/>
+      <url>/2021/02/05/aiwash/</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><p>AI自动洗稿软件，支持3万字以内的文章。洗稿程度可自定义调节。</p><hr><h3 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h3><p><strong>洗稿程度设置为0.1</strong><br><img src="/2021/02/05/aiwash/1.png" alt></p><p><strong>洗稿程度设置为0.5</strong><br><img src="/2021/02/05/aiwash/2.png" alt></p><hr><h3 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h3><p>百度云：链接:<a href="https://pan.baidu.com/s/1_rW25gVNMMbS_9l0Elg4-g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_rW25gVNMMbS_9l0Elg4-g</a>  密码:459z</p><p>城通网盘：链接: <a href="https://n802.com/d/24885990-42315914-e1ce9e" target="_blank" rel="noopener">https://n802.com/d/24885990-42315914-e1ce9e</a> （访问密码：7935）</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI洗稿 </tag>
+            
+            <tag> 洗稿 </tag>
+            
+            <tag> 洗稿软件 </tag>
+            
+            <tag> 文章伪原创 </tag>
+            
+            <tag> 文章去重 </tag>
+            
+            <tag> 文章搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AI视频工厂</title>
       <link href="/2020/12/06/videofactory/"/>
       <url>/2020/12/06/videofactory/</url>
@@ -20,6 +55,8 @@
       
         <tags>
             
+            <tag> 轮询任务 </tag>
+            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
@@ -27,8 +64,6 @@
             <tag> 批量生成 </tag>
             
             <tag> 原创视频 </tag>
-            
-            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -55,8 +90,6 @@
             
             <tag> 抖音 </tag>
             
-            <tag> 轮询任务 </tag>
-            
             <tag> 自动发布 </tag>
             
             <tag> 头条 </tag>
@@ -64,6 +97,8 @@
             <tag> 西瓜 </tag>
             
             <tag> 定时任务 </tag>
+            
+            <tag> 轮询任务 </tag>
             
         </tags>
       
