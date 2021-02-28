@@ -1,0 +1,1356 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="视频去重">
+    <meta name="description" content="自媒体自动化软件，让您成为专业的自媒体人">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="renderer" content="webkit|ie-stand|ie-comp">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+    <title>视频去重技术 | AI视频工作室</title>
+    <link rel="icon" type="image/png" href="/favicon.png">
+
+    <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
+    <link rel="stylesheet" type="text/css" href="/libs/materialize/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="/libs/aos/aos.css">
+    <link rel="stylesheet" type="text/css" href="/libs/animate/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/matery.css">
+    <link rel="stylesheet" type="text/css" href="/css/my.css">
+
+    <script src="/libs/jquery/jquery.min.js"></script>
+
+<meta name="generator" content="Hexo 4.2.0"><link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
+
+
+
+
+<body>
+    <header class="navbar-fixed">
+    <nav id="headNav" class="bg-color nav-transparent">
+        <div id="navContainer" class="nav-wrapper container">
+            <div class="brand-logo">
+                <a href="/" class="waves-effect waves-light">
+                    
+                    <img src="/medias/logo.png" class="logo-img" alt="LOGO">
+                    
+                    <span class="logo-span">AI视频工作室</span>
+                </a>
+            </div>
+            
+
+<a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fas fa-bars"></i></a>
+<ul class="right nav-menu">
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="/" class="waves-effect waves-light">
+      
+      <i class="fas fa-home" style="zoom: 0.6;"></i>
+      
+      <span>首页</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="/download" class="waves-effect waves-light">
+      
+      <i class="fas fa-download" style="zoom: 0.6;"></i>
+      
+      <span>软件下载</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="/videos" class="waves-effect waves-light">
+      
+      <i class="fas fa-video" style="zoom: 0.6;"></i>
+      
+      <span>视频教程</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="https://www.kuaifaka.net/purchasing?link=3ZUpQ" target="_blank" rel="noopener" class="waves-effect waves-light">
+      
+      <i class="fas fa-store" style="zoom: 0.6;"></i>
+      
+      <span>店铺</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="https://gitee.com/fstongxue/fstongxue/wikis/pages" target="_blank" rel="noopener" class="waves-effect waves-light">
+      
+      <i class="fas fa-archive" style="zoom: 0.6;"></i>
+      
+      <span>文档中心</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="https://support.qq.com/products/304617" target="_blank" rel="noopener" class="waves-effect waves-light">
+      
+      <i class="fab fa-wpforms" style="zoom: 0.6;"></i>
+      
+      <span>反馈社区</span>
+    </a>
+    
+  </li>
+  
+  <li>
+    <a href="#searchModal" class="modal-trigger waves-effect waves-light">
+      <i id="searchIcon" class="fas fa-search" title="搜索" style="zoom: 0.85;"></i>
+    </a>
+  </li>
+</ul>
+
+
+<div id="mobile-nav" class="side-nav sidenav">
+
+    <div class="mobile-head bg-color">
+        
+        <img src="/medias/logo.png" class="logo-img circle responsive-img">
+        
+        <div class="logo-name">AI视频工作室</div>
+        <div class="logo-desc">
+            
+            自媒体自动化软件，让您成为专业的自媒体人
+            
+        </div>
+    </div>
+
+    
+
+    <ul class="menu-list mobile-menu-list">
+        
+        <li class="m-nav-item">
+	  
+		<a href="/" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-home"></i>
+			
+			首页
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/download" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-download"></i>
+			
+			软件下载
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/videos" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-video"></i>
+			
+			视频教程
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="https://www.kuaifaka.net/purchasing?link=3ZUpQ" target="_blank" rel="noopener" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-store"></i>
+			
+			店铺
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="https://gitee.com/fstongxue/fstongxue/wikis/pages" target="_blank" rel="noopener" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-archive"></i>
+			
+			文档中心
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="https://support.qq.com/products/304617" target="_blank" rel="noopener" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fab fa-wpforms"></i>
+			
+			反馈社区
+		</a>
+          
+        </li>
+        
+        
+    </ul>
+</div>
+
+
+        </div>
+
+        
+    </nav>
+
+</header>
+
+    
+
+
+
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/20.jpg')">
+    <div class="container" style="right: 0px;left: 0px;">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <div class="brand">
+                    <h1 class="description center-align post-title">视频去重技术</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<main class="post-container content">
+
+    
+    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
+<style>
+    #articleContent h1::before,
+    #articleContent h2::before,
+    #articleContent h3::before,
+    #articleContent h4::before,
+    #articleContent h5::before,
+    #articleContent h6::before {
+        display: block;
+        content: " ";
+        height: 100px;
+        margin-top: -100px;
+        visibility: hidden;
+    }
+
+    #articleContent :focus {
+        outline: none;
+    }
+
+    .toc-fixed {
+        position: fixed;
+        top: 64px;
+    }
+
+    .toc-widget {
+        width: 345px;
+        padding-left: 20px;
+    }
+
+    .toc-widget .toc-title {
+        padding: 35px 0 15px 17px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    .toc-widget ol {
+        padding: 0;
+        list-style: none;
+    }
+
+    #toc-content {
+        padding-bottom: 30px;
+        overflow: auto;
+    }
+
+    #toc-content ol {
+        padding-left: 10px;
+    }
+
+    #toc-content ol li {
+        padding-left: 10px;
+    }
+
+    #toc-content .toc-link:hover {
+        color: #42b983;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    #toc-content .toc-link::before {
+        background-color: transparent;
+        max-height: 25px;
+
+        position: absolute;
+        right: 23.5vw;
+        display: block;
+    }
+
+    #toc-content .is-active-link {
+        color: #42b983;
+    }
+
+    #floating-toc-btn {
+        position: fixed;
+        right: 15px;
+        bottom: 76px;
+        padding-top: 15px;
+        margin-bottom: 0;
+        z-index: 998;
+    }
+
+    #floating-toc-btn .btn-floating {
+        width: 48px;
+        height: 48px;
+    }
+
+    #floating-toc-btn .btn-floating i {
+        line-height: 48px;
+        font-size: 1.4rem;
+    }
+</style>
+<div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- 文章内容详情 -->
+<div id="artDetail">
+    <div class="card">
+        <div class="card-content article-info">
+            <div class="row tag-cate">
+                <div class="col s7">
+                    
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E8%A7%86%E9%A2%91%E5%8E%BB%E9%87%8D/">
+                                <span class="chip bg-color">视频去重</span>
+                            </a>
+                        
+                            <a href="/tags/%E5%85%83%E6%95%B0%E6%8D%AE/">
+                                <span class="chip bg-color">元数据</span>
+                            </a>
+                        
+                            <a href="/tags/%E5%85%B3%E9%94%AE%E5%B8%A7/">
+                                <span class="chip bg-color">关键帧</span>
+                            </a>
+                        
+                            <a href="/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/">
+                                <span class="chip bg-color">画中画</span>
+                            </a>
+                        
+                            <a href="/tags/%E8%92%99%E7%89%88/">
+                                <span class="chip bg-color">蒙版</span>
+                            </a>
+                        
+                            <a href="/tags/%E6%B7%B7%E5%89%AA/">
+                                <span class="chip bg-color">混剪</span>
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+                <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E6%8A%80%E6%9C%AF/" class="post-category">
+                                技术
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="post-info">
+                
+                <div class="post-date info-break-policy">
+                    <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
+                    2021-02-28
+                </div>
+                
+
+                
+                <div class="post-date info-break-policy">
+                    <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
+                    2021-02-28
+                </div>
+                
+
+                
+
+                
+
+                
+                    <div id="busuanzi_container_page_pv" class="info-break-policy">
+                        <i class="far fa-eye fa-fw"></i>阅读次数:&nbsp;&nbsp;
+                        <span id="busuanzi_value_page_pv"></span>
+                    </div>
+				
+            </div>
+        </div>
+        <hr class="clearfix">
+
+        
+
+        
+
+        <div class="card-content article-card-content">
+            <div id="articleContent">
+                <h1 id="视频去重技术"><a href="#视频去重技术" class="headerlink" title="视频去重技术"></a>视频去重技术</h1><p>之前已经写过一篇关于去重的文章，讲解了视频去重的原理，但是还是有很多人一直问这个问题，这次我就写的更加详细一些，同时给出一些案例，希望可以帮助更多的人。写作不易，如果觉得不错，还请点个赞。 </p>
+<p>看完这篇文章，你就明白视频该如何去重以及为什么别人可以搬运，我一搬运就不行。</p>
+<p>文章末尾会解答几个很多人问过的问题，还有福利赠送。</p>
+<p>关注公众号：AI视频工作室，学习更多视频技术。</p>
+<h2 id="为什么要深入理解去重"><a href="#为什么要深入理解去重" class="headerlink" title="为什么要深入理解去重"></a>为什么要深入理解去重</h2><p>虽然现在各大自媒体平台对视频查重越来越严格，但是，搬运这行永远不会落幕，永远有利可图，查重严格，也许是一件好事，这直接过滤掉大部分搬运的人，搬运的人越少，自然收益空间就越大。那么如何让自己避免成为那被过滤的大部分人呢，简单，好好看这篇文章。</p>
+<p>也许你是专门做原创的，那么去重技术对你也许不那么重要，但一些基础原理也是必不可少，毕竟，即便做原创，很多素材也是需要从网上采集，把素材处理一遍，效果也会更好。</p>
+<p>实际上，很多做自媒体大佬，都是有很多账户，少量的原创账户，大量的搬运账户，而这些搬运的账户价值也很大，可以用来测试内容方向，如果粉丝起来了，也可以转为原创账户，并且这些搬运账户也可以给自己提供收益。</p>
+<p>所以，准备做自媒体或者正在做自媒体的朋友，需要好好理解一下视频去重技术。</p>
+<h2 id="去重的5个级别"><a href="#去重的5个级别" class="headerlink" title="去重的5个级别"></a>去重的5个级别</h2><p>这几个级别是根据我自己的理解来划分的，由浅入深，也更容易让小白用户去理解。视频去重很简单，难的是如何保证视频去重的同时，保证视频的观赏性，这个需要根据实际情况去权衡，针对不同类型的视频，去重方案也不尽相同。</p>
+<h2 id="去重第一级"><a href="#去重第一级" class="headerlink" title="去重第一级"></a>去重第一级</h2><p>标题，描述，封面，md5</p>
+<p>修改视频的标题，描述，封面等视频的外在信息，以及视频的md5,这些信息对于去重很重要，但又远远不够，所以我把md5放在了第一级别，因为很多人对md5理解的都不到位，百度网盘的秒传就是使用md5原理，如果md5一致，说明两个文件一模一样，哪怕改动视频的一丝一毫，比如加个片头，加个水印，改个分辨率，剪去一秒，抽去一帧等等，md5就变得完全不一样。</p>
+<h2 id="去重第二级"><a href="#去重第二级" class="headerlink" title="去重第二级"></a>去重第二级</h2><p>素材，去水印，分辨率，片头片尾，加水印</p>
+<ul>
+<li><p>素材，采集素材的时候就要采集高清无水印的，如果确实有水印，那么我也建议不要用去水印的方式，因为用了去水印，视频上去水印的位置就是模糊的，而这种模糊是可以检测出来的。</p>
+</li>
+<li><p>去水印 那么改怎么去水印呢，我的建议是用剪裁的方式。如下图所示，原视频为分辨率 1920 x 1080</p>
+</li>
+</ul>
+<p>水印位置的高度为90，那么我的做法是，顶部剪去90，左右两侧各剪去80，这个时候视频的分辨率为 1760 x 990，这个比例还是16/9,分辨率虽然变小了，但是比例没变，然后再把分辨率改回到 1920 x 1080，这样就相当于完全去掉了水印，并且画面基本不变。</p>
+<p><img src="/2021/02/28/duplicate/1.jpg" alt></p>
+<p>这一步如果用AI快剪操作，就是十分简单了。</p>
+<p><img src="/2021/02/28/duplicate/2.jpg" alt></p>
+<p>处理之后的效果<br><img src="/2021/02/28/duplicate/3.jpg" alt="3"></p>
+<ul>
+<li>片头片尾，加水印，解决水印的问题，接下来就是去掉视频原来的片头片尾，然后加自己的片头片尾，加自己的水印，水印包括文字水印，图片水印，如果加gif 水印的话效果会更好。</li>
+</ul>
+<h2 id="去重第三级"><a href="#去重第三级" class="headerlink" title="去重第三级"></a>去重第三级</h2><p>帧率，比特率，滤镜，播放速度，背景音乐</p>
+<ul>
+<li>帧率，视频的帧率一般在25-60之间，修改帧率对于去重是有一定的效果的。</li>
+<li>比特率，比特率其实是没必要修改的，比特率俗称码率，指的是视频每秒的数据量大小，它本身就不是一个固定的值，每秒的比特率大小都不同，对于视频的常规剪辑操作也会在一定程度上改变比特率，在电脑上查看视频的属性可以看到比特率大小，但那个其实是一个每秒的平均值(给部分小白用户普及下基本知识)。</li>
+<li>滤镜，滤镜对于去重意义也不大，这个在去重第五级详细讲解。</li>
+<li>播放速度和背景音乐对于去重效果作用比较大，如果可以，建议修改。</li>
+</ul>
+<p>这一级别的去重也算是比较基础的，也是大部分人知道的技术，重点在第四级。</p>
+<h2 id="去重第四级"><a href="#去重第四级" class="headerlink" title="去重第四级"></a>去重第四级</h2><p>这一级别的去重技术，都会改变视频的画面，去重效果也是极佳，看需要选择一两个就够了</p>
+<ul>
+<li>镜像，滑动，画中画，视频蒙版，图片蒙版，背景颜色，背景图片，背景视频，模糊拓边等等</li>
+</ul>
+<p>镜像，去重效果作用比较大，如果原视频中没有文字，那么建议镜像处理。</p>
+<p>原视频<br><img src="/2021/02/28/duplicate/4.jpg" alt="4"></p>
+<p>镜像后的视频<br><img src="/2021/02/28/duplicate/5.jpg" alt="5"></p>
+<ul>
+<li>滑动，滑动操作会影响观看，但是效果极佳，经过测试，即便影视类很难搬运的情况下，加上滑动效果就能过。</li>
+</ul>
+<p><img src="/2021/02/28/duplicate/6.gif" alt="6"></p>
+<ul>
+<li>画中画 三种效果<br><img src="/2021/02/28/duplicate/7.jpg" alt="7"></li>
+</ul>
+<p>四周的间距看情况调整，为了方便看效果我这里设置大一点<br><img src="/2021/02/28/duplicate/8.jpg" alt="8"></p>
+<p>一道光的效果<br><img src="/2021/02/28/duplicate/19.gif" alt="19"></p>
+<p>这种跟第二种其实是一样的，只是这个画中画是透明的，并且需要重复出现，去重效果也是很好的。</p>
+<ul>
+<li>视频蒙版，把画中画的第二种形式设置一个半透明的效果就是蒙版了。<br><img src="/2021/02/28/duplicate/9.jpg" alt="9"></li>
+</ul>
+<ul>
+<li>图片蒙版</li>
+</ul>
+<p>为了方便看效果，我把图片的透明度设置大了点</p>
+<p><img src="/2021/02/28/duplicate/10.jpg" alt="10"></p>
+<ul>
+<li>背景颜色<br><img src="/2021/02/28/duplicate/11.png" alt="11"></li>
+</ul>
+<p><img src="/2021/02/28/duplicate/12.png" alt="12"></p>
+<ul>
+<li>背景图片</li>
+</ul>
+<p><img src="/2021/02/28/duplicate/13.png" alt="13"></p>
+<p><img src="/2021/02/28/duplicate/14.png" alt="14"></p>
+<ul>
+<li>模糊拓边</li>
+</ul>
+<p><img src="/2021/02/28/duplicate/17.png" alt="17"></p>
+<p><img src="/2021/02/28/duplicate/18.png" alt="18"></p>
+<p>还有分屏效果，分屏镜像，背景视频等等，这里就不举例了。这一级别的重点是保证视频观看性的同时修改视频画面。</p>
+<p>这些操作如果用AI快剪也是非常简单，只需要打勾就可以批量完成。</p>
+<p><img src="/2021/02/28/duplicate/15.png" alt="15"></p>
+<p><img src="/2021/02/28/duplicate/16.png" alt="16"></p>
+<h2 id="去重第五级"><a href="#去重第五级" class="headerlink" title="去重第五级"></a>去重第五级</h2><p>混剪加过渡，关键帧，元数据</p>
+<p>第五级已经是原创级别了。</p>
+<ul>
+<li><p>混剪加过渡 第一种，<a href="https://www.bilibili.com/video/BV1J5411n7hx/" target="_blank" rel="noopener">这种视频</a>比如搞笑片段合集，多个搞笑片段之间加上一些大笑的片段，如果把原视频的片段打乱，然后重新合并，不用怀疑，这已经是原创了。第二种，随机分割，然后重新合并，对于去重，肯定是没问题，只是会影响视频的观看。</p>
+</li>
+<li><p>关键帧，关键帧技术，去重指标中非常重要的一项技术，这里解释一下为什么滤镜去重基本没效果，因为滤镜只是色彩上的一点变化而已，如果用关键帧对比，或者是进行图片对比，两者没有任何变化。并且常规的剪辑操作，像加水印，改分辨率等等，视频的关键帧基本是不会变化的。如果想关键帧改动大，最好就是针对这一点进行改动。肯定的告诉你，各大平台都在用这个技术进行查重。</p>
+</li>
+<li><p>元数据，视频中隐藏的最深的数据了，前面所有的操作都不会改动视频元数据。元数据可能包含了，作者，版权，标题，描述等等信息，还有一些额外的信息，比如使用剪映导出的视频，还会有videoId,创建时间等等信息，怀疑videoId跟用户可能对应关系。所以最好元数据也修改一下。</p>
+</li>
+</ul>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>简单总结一下视频去重，简单概括就是3步</p>
+<ul>
+<li><ol>
+<li>修改视频外部信息，标题，描述，封面等</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>修改视频内部信息，帧率，关键帧，元数据</li>
+</ol>
+</li>
+<li><ol start="3">
+<li>修改视频画面，水印，片头尾，画中画，蒙版，背景，音效，混剪等等</li>
+</ol>
+</li>
+</ul>
+<p>如果要保证去重效果，这3步缺一不可，在保证观看的同时，尽可能的修改越多的画面，去重效果就越好。为了方便批量去重，文中所有的去重功能我都集成到了AI快剪，只要打勾就可以。</p>
+<h2 id="解答两个问题"><a href="#解答两个问题" class="headerlink" title="解答两个问题"></a>解答两个问题</h2><h3 id="搬运问题"><a href="#搬运问题" class="headerlink" title="搬运问题"></a>搬运问题</h3><p>为什么别人可以搬运，我一搬运同样的视频就提示搬运？</p>
+<p>原因有下面几种</p>
+<ol>
+<li>别人是MCN机构账户，在做任务剧</li>
+<li>别人并不是直接搬运，而是去重做得好</li>
+<li>别人只是暂时没被平台检测到，或者是暂时没被举报</li>
+<li>别人是MCN机构账户，并且该MCN机构有该剧的版权</li>
+</ol>
+<h3 id="播放量问题"><a href="#播放量问题" class="headerlink" title="播放量问题"></a>播放量问题</h3><p>为什么我搬运的视频，播放量一直不高？</p>
+<p>只要平台没提示你搬运，播放量问题就跟是不是搬运没有关系了，就算你搞原创，估计播放量也不高。要弄明白这个问题，先了解一下平台的推荐算法。我们发布一个视频，平台会推送给我们的粉丝和少量的关注该视频领域的其他用户，如果第一波推荐用户播放量(以及包括点赞，收藏，转发，评论等)比较高，那么就会进入第二波更大量的推荐，如果播放量不高，那么就会停止推荐。</p>
+<p>那么总结原因有以下几点</p>
+<ul>
+<li><ol>
+<li>视频质量不高</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>粉丝数量少</li>
+</ol>
+</li>
+<li><ol start="3">
+<li>视频质量高，但是第一波推荐的用户对该视频都不感兴趣(这也很容易说明，有时候多个账户发同一个视频，只有几个账户的播放量很高，其余都很低)</li>
+</ol>
+</li>
+<li><ol start="4">
+<li>账户被限流</li>
+</ol>
+</li>
+<li><ol start="5">
+<li>该视频类型被平台限流(如果是这种情况，就算是大v，发布此类视频播放量也不会太高)</li>
+</ol>
+</li>
+</ul>
+<p>前面3点原因是最有可能的，当然，最有可能的，还是视频质量问题，如果粉丝少，只能靠视频质量。</p>
+<h2 id="福利"><a href="#福利" class="headerlink" title="福利"></a>福利</h2><ol>
+<li>AI快剪有部分功能是完全免费的，</li>
+<li>AI采集完全免费，支持单个和批量采集</li>
+<li>AI洗稿完全免费，支持单篇3万字洗稿</li>
+</ol>
+<p>关注公众号：AI视频工作室   就可以免费获取卡号</p>
+<p>软件下载地址：<a href="https://fstongxue.gitee.io/">https://fstongxue.gitee.io/</a></p>
+
+                
+            </div>
+            <hr/>
+
+            
+
+    <div class="reprint" id="reprint-statement">
+        
+            <div class="reprint__author">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-user">
+                        文章作者:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    <a href="/about" rel="external nofollow noreferrer">风逝</a>
+                </span>
+            </div>
+            <div class="reprint__type">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-link">
+                        文章链接:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    <a href="https://fstongxue.gitee.io/2021/02/28/duplicate/">https://fstongxue.gitee.io/2021/02/28/duplicate/</a>
+                </span>
+            </div>
+            <div class="reprint__notice">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-copyright">
+                        版权声明:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    本博客所有文章除特別声明外，均采用
+                    <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
+                    许可协议。转载请注明来源
+                    <a href="/about" target="_blank">风逝</a>
+                    !
+                </span>
+            </div>
+        
+    </div>
+
+    <script async defer>
+      document.addEventListener("copy", function (e) {
+        let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
+        M.toast({html: toastHTML})
+      });
+
+      function navToReprintStatement() {
+        $("html, body").animate({scrollTop: $("#reprint-statement").offset().top - 80}, 800);
+      }
+    </script>
+
+
+
+            <div class="tag_share" style="display: block;">
+                <div class="post-meta__tag-list" style="display: inline-block;">
+                    
+                        <div class="article-tag">
+                            
+                                <a href="/tags/%E8%A7%86%E9%A2%91%E5%8E%BB%E9%87%8D/">
+                                    <span class="chip bg-color">视频去重</span>
+                                </a>
+                            
+                                <a href="/tags/%E5%85%83%E6%95%B0%E6%8D%AE/">
+                                    <span class="chip bg-color">元数据</span>
+                                </a>
+                            
+                                <a href="/tags/%E5%85%B3%E9%94%AE%E5%B8%A7/">
+                                    <span class="chip bg-color">关键帧</span>
+                                </a>
+                            
+                                <a href="/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/">
+                                    <span class="chip bg-color">画中画</span>
+                                </a>
+                            
+                                <a href="/tags/%E8%92%99%E7%89%88/">
+                                    <span class="chip bg-color">蒙版</span>
+                                </a>
+                            
+                                <a href="/tags/%E6%B7%B7%E5%89%AA/">
+                                    <span class="chip bg-color">混剪</span>
+                                </a>
+                            
+                        </div>
+                    
+                </div>
+                <div class="post_share" style="zoom: 80%; width: fit-content; display: inline-block; float: right; margin: -0.15rem 0;">
+                    <link rel="stylesheet" type="text/css" href="/libs/share/css/share.min.css">
+<div id="article-share">
+
+    
+    <div class="social-share" data-sites="twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin" data-wechat-qrcode-helper="<p>微信扫一扫即可分享！</p>"></div>
+    <script src="/libs/share/js/social-share.min.js"></script>
+    
+
+    
+
+</div>
+
+                </div>
+            </div>
+            
+                <style>
+    #reward {
+        margin: 40px 0;
+        text-align: center;
+    }
+
+    #reward .reward-link {
+        font-size: 1.4rem;
+        line-height: 38px;
+    }
+
+    #reward .btn-floating:hover {
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    #rewardModal {
+        width: 320px;
+        height: 350px;
+    }
+
+    #rewardModal .reward-title {
+        margin: 15px auto;
+        padding-bottom: 5px;
+    }
+
+    #rewardModal .modal-content {
+        padding: 10px;
+    }
+
+    #rewardModal .close {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 1.3rem;
+        line-height: 20px;
+        cursor: pointer;
+    }
+
+    #rewardModal .close:hover {
+        color: #ef5350;
+        transform: scale(1.3);
+        -moz-transform:scale(1.3);
+        -webkit-transform:scale(1.3);
+        -o-transform:scale(1.3);
+    }
+
+    #rewardModal .reward-tabs {
+        margin: 0 auto;
+        width: 210px;
+    }
+
+    .reward-tabs .tabs {
+        height: 38px;
+        margin: 10px auto;
+        padding-left: 0;
+    }
+
+    .reward-content ul {
+        padding-left: 0 !important;
+    }
+
+    .reward-tabs .tabs .tab {
+        height: 38px;
+        line-height: 38px;
+    }
+
+    .reward-tabs .tab a {
+        color: #fff;
+        background-color: #ccc;
+    }
+
+    .reward-tabs .tab a:hover {
+        background-color: #ccc;
+        color: #fff;
+    }
+
+    .reward-tabs .wechat-tab .active {
+        color: #fff !important;
+        background-color: #22AB38 !important;
+    }
+
+    .reward-tabs .alipay-tab .active {
+        color: #fff !important;
+        background-color: #019FE8 !important;
+    }
+
+    .reward-tabs .reward-img {
+        width: 210px;
+        height: 210px;
+    }
+</style>
+
+<div id="reward">
+    <a href="#rewardModal" class="reward-link modal-trigger btn-floating btn-medium waves-effect waves-light red">赏</a>
+
+    <!-- Modal Structure -->
+    <div id="rewardModal" class="modal">
+        <div class="modal-content">
+            <a class="close modal-close"><i class="fas fa-times"></i></a>
+            <h4 class="reward-title">你的赏识是我前进的动力</h4>
+            <div class="reward-content">
+                <div class="reward-tabs">
+                    <ul class="tabs row">
+                        <li class="tab col s6 alipay-tab waves-effect waves-light"><a href="#alipay">支付宝</a></li>
+                        <li class="tab col s6 wechat-tab waves-effect waves-light"><a href="#wechat">微 信</a></li>
+                    </ul>
+                    <div id="alipay">
+                        <img src="/medias/reward/alipay.jpg" class="reward-img" alt="支付宝打赏二维码">
+                    </div>
+                    <div id="wechat">
+                        <img src="/medias/reward/wechat.png" class="reward-img" alt="微信打赏二维码">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $('.tabs').tabs();
+    });
+</script>
+
+            
+        </div>
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+<article id="prenext-posts" class="prev-next articles">
+    <div class="row article-row">
+        
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+            <div class="article-badge left-badge text-color">
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
+            <div class="card">
+                <a href="/2021/02/28/duplicate/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="视频去重技术">
+                        
+                        <span class="card-title">视频去重技术</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            深度讲解视频去重
+                        
+                    </div>
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-28
+                            </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E6%8A%80%E6%9C%AF/" class="post-category">
+                                    技术
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E8%A7%86%E9%A2%91%E5%8E%BB%E9%87%8D/">
+                        <span class="chip bg-color">视频去重</span>
+                    </a>
+                    
+                    <a href="/tags/%E5%85%83%E6%95%B0%E6%8D%AE/">
+                        <span class="chip bg-color">元数据</span>
+                    </a>
+                    
+                    <a href="/tags/%E5%85%B3%E9%94%AE%E5%B8%A7/">
+                        <span class="chip bg-color">关键帧</span>
+                    </a>
+                    
+                    <a href="/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/">
+                        <span class="chip bg-color">画中画</span>
+                    </a>
+                    
+                    <a href="/tags/%E8%92%99%E7%89%88/">
+                        <span class="chip bg-color">蒙版</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%B7%B7%E5%89%AA/">
+                        <span class="chip bg-color">混剪</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+            </div>
+            <div class="card">
+                <a href="/2021/02/05/aiwash/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/13.jpg" class="responsive-img" alt="AI洗稿(免费)">
+                        
+                        <span class="card-title">AI洗稿(免费)</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            AI洗稿，洗稿，洗稿软件
+                        
+                    </div>
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-05
+                            </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E8%BD%AF%E4%BB%B6/" class="post-category">
+                                    软件
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/AI%E6%B4%97%E7%A8%BF/">
+                        <span class="chip bg-color">AI洗稿</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%B4%97%E7%A8%BF/">
+                        <span class="chip bg-color">洗稿</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%B4%97%E7%A8%BF%E8%BD%AF%E4%BB%B6/">
+                        <span class="chip bg-color">洗稿软件</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%96%87%E7%AB%A0%E4%BC%AA%E5%8E%9F%E5%88%9B/">
+                        <span class="chip bg-color">文章伪原创</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%96%87%E7%AB%A0%E5%8E%BB%E9%87%8D/">
+                        <span class="chip bg-color">文章去重</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%96%87%E7%AB%A0%E6%90%AC%E8%BF%90/">
+                        <span class="chip bg-color">文章搬运</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+</article>
+
+</div>
+
+
+
+<!-- 代码块功能依赖 -->
+<script type="text/javascript" src="/libs/codeBlock/codeBlockFuction.js"></script>
+
+<!-- 代码语言 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeLang.js"></script>
+
+
+<!-- 代码块复制 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeCopy.js"></script>
+
+
+<!-- 代码块收缩 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeShrink.js"></script>
+
+
+    </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget card" style="background-color: white;">
+            <div class="toc-title"><i class="far fa-list-alt"></i>&nbsp;&nbsp;目录</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fas fa-list-ul"></i>
+    </a>
+</div>
+
+
+<script src="/libs/tocbot/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            collapseDepth: Number('0'),
+            headingSelector: 'h2, h3, h4'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h2, h3, h4').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).hide();
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).show();
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+
+    
+
+</main>
+
+
+
+
+    <footer class="page-footer bg-color">
+    
+    <div class="container row center-align" style="margin-bottom: 0px !important;">
+        <div class="col s12 m8 l8 copy-right">
+            © All rights reserved AI视频工作室
+            
+                <span id="year">2020-2021</span>
+            
+            <a> </a>
+            <br>
+            
+            
+            
+            
+            
+            
+            <span id="busuanzi_container_site_pv">
+                &nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;<span id="busuanzi_value_site_pv"
+                    class="white-color"></span>&nbsp;次
+            </span>
+            
+            
+            <span id="busuanzi_container_site_uv">
+                |&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;<span id="busuanzi_value_site_uv"
+                    class="white-color"></span>&nbsp;人
+            </span>
+            
+            <br>
+            
+            <br>
+            
+            <span id="icp"><img src="/medias/icp.png" style="vertical-align: text-bottom;" />
+                <a href="/" target="_blank">京ICP备19055991号</a>
+            </span>
+            
+        </div>
+        <div class="col s12 m4 l4 social-link social-statis">
+    <a href="https://github.com/suifengqjn" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+        <i class="fab fa-github"></i>
+    </a>
+
+
+
+    <a href="mailto:329426491@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+        <i class="fas fa-envelope-open"></i>
+    </a>
+
+
+
+
+
+
+
+    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=329426491" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 329426491" data-position="top" data-delay="50">
+        <i class="fab fa-qq"></i>
+    </a>
+
+
+
+
+
+    <a href="https://www.zhihu.com/people/fengshitongxue" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/people/fengshitongxue" data-position="top" data-delay="50">
+        <i class="fab fa-zhihu1">知</i>
+    </a>
+
+
+
+</div>
+    </div>
+</footer>
+
+<div class="progress-bar"></div>
+
+
+    <!-- 搜索遮罩框 -->
+<div id="searchModal" class="modal">
+    <div class="modal-content">
+        <div class="search-header">
+            <span class="title"><i class="fas fa-search"></i>&nbsp;&nbsp;搜索</span>
+            <input type="search" id="searchInput" name="s" placeholder="请输入搜索的关键字"
+                   class="search-input">
+        </div>
+        <div id="searchResult"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+$(function () {
+    var searchFunc = function (path, search_id, content_id) {
+        'use strict';
+        $.ajax({
+            url: path,
+            dataType: "xml",
+            success: function (xmlResponse) {
+                // get the contents from search data
+                var datas = $("entry", xmlResponse).map(function () {
+                    return {
+                        title: $("title", this).text(),
+                        content: $("content", this).text(),
+                        url: $("url", this).text()
+                    };
+                }).get();
+                var $input = document.getElementById(search_id);
+                var $resultContent = document.getElementById(content_id);
+                $input.addEventListener('input', function () {
+                    var str = '<ul class=\"search-result-list\">';
+                    var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                    $resultContent.innerHTML = "";
+                    if (this.value.trim().length <= 0) {
+                        return;
+                    }
+                    // perform local searching
+                    datas.forEach(function (data) {
+                        var isMatch = true;
+                        var data_title = data.title.trim().toLowerCase();
+                        var data_content = data.content.trim().replace(/<[^>]+>/g, "").toLowerCase();
+                        var data_url = data.url;
+                        data_url = data_url.indexOf('/') === 0 ? data.url : '/' + data_url;
+                        var index_title = -1;
+                        var index_content = -1;
+                        var first_occur = -1;
+                        // only match artiles with not empty titles and contents
+                        if (data_title !== '' && data_content !== '') {
+                            keywords.forEach(function (keyword, i) {
+                                index_title = data_title.indexOf(keyword);
+                                index_content = data_content.indexOf(keyword);
+                                if (index_title < 0 && index_content < 0) {
+                                    isMatch = false;
+                                } else {
+                                    if (index_content < 0) {
+                                        index_content = 0;
+                                    }
+                                    if (i === 0) {
+                                        first_occur = index_content;
+                                    }
+                                }
+                            });
+                        }
+                        // show search results
+                        if (isMatch) {
+                            str += "<li><a href='" + data_url + "' class='search-result-title'>" + data_title + "</a>";
+                            var content = data.content.trim().replace(/<[^>]+>/g, "");
+                            if (first_occur >= 0) {
+                                // cut out 100 characters
+                                var start = first_occur - 20;
+                                var end = first_occur + 80;
+                                if (start < 0) {
+                                    start = 0;
+                                }
+                                if (start === 0) {
+                                    end = 100;
+                                }
+                                if (end > content.length) {
+                                    end = content.length;
+                                }
+                                var match_content = content.substr(start, end);
+                                // highlight all keywords
+                                keywords.forEach(function (keyword) {
+                                    var regS = new RegExp(keyword, "gi");
+                                    match_content = match_content.replace(regS, "<em class=\"search-keyword\">" + keyword + "</em>");
+                                });
+
+                                str += "<p class=\"search-result\">" + match_content + "...</p>"
+                            }
+                            str += "</li>";
+                        }
+                    });
+                    str += "</ul>";
+                    $resultContent.innerHTML = str;
+                });
+            }
+        });
+    };
+
+    searchFunc('/search.xml', 'searchInput', 'searchResult');
+});
+</script>
+
+    <!-- 回到顶部按钮 -->
+<div id="backTop" class="top-scroll">
+    <a class="btn-floating btn-large waves-effect waves-light" href="#!">
+        <i class="fas fa-arrow-up"></i>
+    </a>
+</div>
+
+
+    <script src="/libs/materialize/materialize.min.js"></script>
+    <script src="/libs/masonry/masonry.pkgd.min.js"></script>
+    <script src="/libs/aos/aos.js"></script>
+    <script src="/libs/scrollprogress/scrollProgress.min.js"></script>
+    <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
+    <script src="/js/matery.js"></script>
+
+    <!-- Baidu Analytics -->
+
+    <!-- Baidu Push -->
+
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+
+    
+    <script src="/libs/others/clicklove.js" async="async"></script>
+    
+    
+    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
+    
+
+    
+        <script src="//code.tidio.co/lv3rt1nhoecq3mqy5negr5qs2nrzzhk2.js"></script>
+        <script>
+            $(document).ready(function () {
+                setInterval(change_Tidio, 50);
+                function change_Tidio() {
+                    var tidio=$("#tidio-chat iframe");
+                    if(tidio.css("display")=="block"&& $(window).width()>977 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"85px":"20px";
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()>601 &&$(window).width()<992 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && 601< $(window).width()<992)>0? "-40px":"20px" ;
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))<230){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
+                        document.getElementById("tidio-chat-iframe").style.zIndex="998";
+                    }
+                }
+            });
+        </script>
+    
+
+    
+
+    <!--腾讯兔小巢-->
+    
+        <div style="position:fixed;bottom:125px;right:16px;cursor: pointer;">
+            <a title="兔小巢" href="https://support.qq.com/products/304617" target="_blank" rel="noopener"><i class="fa fa-comments fa-3x"  aria-hidden="true"></i></a>
+        </div>
+    
+    
+
+    
+
+    
+
+    
+    <script src="/libs/instantpage/instantpage.js" type="module"></script>
+    
+
+</body>
+
+</html>
