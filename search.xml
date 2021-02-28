@@ -90,6 +90,8 @@
       
         <tags>
             
+            <tag> 轮询任务 </tag>
+            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
@@ -97,8 +99,6 @@
             <tag> 批量生成 </tag>
             
             <tag> 原创视频 </tag>
-            
-            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -123,17 +123,17 @@
       
         <tags>
             
-            <tag> 抖音 </tag>
-            
-            <tag> 轮询任务 </tag>
-            
             <tag> 自动发布 </tag>
+            
+            <tag> 抖音 </tag>
             
             <tag> 头条 </tag>
             
             <tag> 西瓜 </tag>
             
             <tag> 定时任务 </tag>
+            
+            <tag> 轮询任务 </tag>
             
         </tags>
       
@@ -232,11 +232,11 @@
       
         <tags>
             
+            <tag> 抖音 </tag>
+            
             <tag> 批量 </tag>
             
             <tag> 视频采集 </tag>
-            
-            <tag> 抖音 </tag>
             
             <tag> 快手 </tag>
             
