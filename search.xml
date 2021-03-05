@@ -123,11 +123,11 @@
       
         <tags>
             
-            <tag> 抖音 </tag>
-            
             <tag> 轮询任务 </tag>
             
             <tag> 自动发布 </tag>
+            
+            <tag> 抖音 </tag>
             
             <tag> 头条 </tag>
             
@@ -232,11 +232,11 @@
       
         <tags>
             
+            <tag> 抖音 </tag>
+            
             <tag> 批量 </tag>
             
             <tag> 视频采集 </tag>
-            
-            <tag> 抖音 </tag>
             
             <tag> 快手 </tag>
             
@@ -271,8 +271,6 @@
       
         <tags>
             
-            <tag> AI洗稿 </tag>
-            
             <tag> AI快剪 </tag>
             
             <tag> AI视频工厂 </tag>
@@ -284,6 +282,8 @@
             <tag> AI发布 </tag>
             
             <tag> AI采集 </tag>
+            
+            <tag> AI洗稿 </tag>
             
         </tags>
       
@@ -317,6 +317,8 @@
             <tag> 视频发布平台 </tag>
             
             <tag> 知乎 </tag>
+            
+            <tag> 哔哩哔哩 </tag>
             
         </tags>
       
