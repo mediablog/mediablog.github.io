@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 自动发布 </tag>
-            
             <tag> 快手 </tag>
+            
+            <tag> 自动发布 </tag>
             
             <tag> 20个账号 </tag>
             
@@ -31,37 +31,6 @@
             <tag> 发布间隔 </tag>
             
             <tag> 自动删除 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>AI配音大师</title>
-      <link href="/2021/07/10/videodub/"/>
-      <url>/2021/07/10/videodub/</url>
-      
-        <content type="html"><![CDATA[<h2 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h2><p>AI配音大师是AI快剪针对配音功能的升级版，核心功能就是多种模式配音，制作出高质量的原创视频，本软件的作用是制作原创视频，不适合普通的搬运。</p><p>本软件有5种合成模式，5种配音模式，共有25种制作模式，对比AI快剪，优点是视频合成更加智能，更加方便,速度更快。举例说明(为了方便理解，例子中的数量都以整数距离):</p><p>假设现在有一批10秒钟的素材，要合成3个视频，第一个视频的文案配音时长3分钟，第二个5分钟，第三个10分钟，<br>那么合成第一个视频的时候，会随机取出18个视频合并<br>那么合成第二个视频的时候，会随机取出30个视频合并<br>那么合成第三个视频的时候，会随机取出60个视频合并<br>也就是说，每次合成视频的时候，软件会自动选择最合适的数量进行合并，已达到最佳的效果和最快的速度。</p><p>操作方式也更加简单，具体可以看教程演示。</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>诚通网盘  链接: <a href="https://n802.com/d/24885990-44171293-bb0c89" target="_blank" rel="noopener">https://n802.com/d/24885990-44171293-bb0c89</a> 密码:7935<br>百度云   链接: <a href="https://pan.baidu.com/s/1mSV7aDg2jMcQJFyroI_-4A" target="_blank" rel="noopener">https://pan.baidu.com/s/1mSV7aDg2jMcQJFyroI_-4A</a>  密码: 7861</p><h3 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h3><blockquote><p><a href="http://www.freetop.ren:8080/main/shop" target="_blank" rel="noopener">点击购买</a></p></blockquote><blockquote><p><a href="https://pr.kuaifaka.net/item/3ZUpQ" target="_blank" rel="noopener">备用地址</a></p></blockquote><h4 id="操作说明"><a href="#操作说明" class="headerlink" title="操作说明"></a>操作说明</h4><h2 id="软件配置"><a href="#软件配置" class="headerlink" title="软件配置"></a>软件配置</h2><p>   如果要使用配音，需要先配置语音参数，用哪个就配置哪个即可，软件支持腾讯语音和阿里语音。如果需要双语字幕，还需要填写百度翻译参数。</p><p>   <img src="/2021/07/10/videodub/4.jpg" alt></p><h2 id="软件教程"><a href="#软件教程" class="headerlink" title="软件教程"></a>软件教程</h2><p><img src="/2021/07/10/videodub/5.jpg" alt></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 全自动配音 </tag>
-            
-            <tag> 智能合并 </tag>
-            
-            <tag> 原创视频 </tag>
-            
-            <tag> 视频特效 </tag>
             
         </tags>
       
@@ -88,11 +57,11 @@
             
             <tag> 原创视频 </tag>
             
-            <tag> 视频特效 </tag>
-            
             <tag> word转视频 </tag>
             
             <tag> 小白神器 </tag>
+            
+            <tag> 视频特效 </tag>
             
         </tags>
       
@@ -292,13 +261,13 @@
       
         <tags>
             
-            <tag> 原创视频 </tag>
-            
             <tag> 视频工厂 </tag>
             
             <tag> 关键字 </tag>
             
             <tag> 批量生成 </tag>
+            
+            <tag> 原创视频 </tag>
             
             <tag> 轮询任务 </tag>
             
@@ -325,11 +294,11 @@
       
         <tags>
             
-            <tag> 自动发布 </tag>
-            
             <tag> 抖音 </tag>
             
             <tag> 轮询任务 </tag>
+            
+            <tag> 自动发布 </tag>
             
             <tag> 头条 </tag>
             
@@ -434,13 +403,13 @@
       
         <tags>
             
-            <tag> 快手 </tag>
-            
             <tag> 批量 </tag>
             
             <tag> 视频采集 </tag>
             
             <tag> 抖音 </tag>
+            
+            <tag> 快手 </tag>
             
             <tag> youtube </tag>
             
