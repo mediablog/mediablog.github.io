@@ -64,22 +64,41 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/download" class="waves-effect waves-light">
+    <a href="" class="waves-effect waves-light">
+
       
-      <i class="fas fa-download" style="zoom: 0.6;"></i>
+      <i class="fas fa-list" style="zoom: 0.6;"></i>
       
-      <span>软件下载</span>
+      <span>软件列表</span>
+      <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
     </a>
+    <ul class="sub-nav menus_item_child ">
+      
+      <li>
+        <a href="/2020/09/06/aicut/">
+          
+          <span>AI快剪</span>
+        </a>
+      </li>
+      
+      <li>
+        <a href="/2021/03/13/videofission/">
+          
+          <span>AI裂变</span>
+        </a>
+      </li>
+      
+    </ul>
     
   </li>
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/videos" class="waves-effect waves-light">
+    <a href="/download" class="waves-effect waves-light">
       
-      <i class="fas fa-video" style="zoom: 0.6;"></i>
+      <i class="fas fa-download" style="zoom: 0.6;"></i>
       
-      <span>视频教程</span>
+      <span>软件下载</span>
     </a>
     
   </li>
@@ -167,22 +186,42 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/download" class="waves-effect waves-light">
+		<a href="javascript:;">
 			
-			    <i class="fa-fw fas fa-download"></i>
+				<i class="fa-fw fas fa-list"></i>
 			
-			软件下载
+			软件列表
+			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
+            <ul  style="background:  ;" >
+              
+                <li>
+
+                  <a href="/2020/09/06/aicut/ " style="margin-left:75px">
+				  
+		          <span>AI快剪</span>
+                  </a>
+                </li>
+              
+                <li>
+
+                  <a href="/2021/03/13/videofission/ " style="margin-left:75px">
+				  
+		          <span>AI裂变</span>
+                  </a>
+                </li>
+              
+            </ul>
           
         </li>
         
         <li class="m-nav-item">
 	  
-		<a href="/videos" class="waves-effect waves-light">
+		<a href="/download" class="waves-effect waves-light">
 			
-			    <i class="fa-fw fas fa-video"></i>
+			    <i class="fa-fw fas fa-download"></i>
 			
-			视频教程
+			软件下载
 		</a>
           
         </li>
@@ -561,7 +600,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["特效","自动发布","裂变","AI快剪","AI洗稿","AI裂变","去重","快手","抖音","剪辑"]
+                data: ["特效","AI裂变","剪辑","去重","裂变","AI洗稿","AI快剪","自动发布","快手","抖音"]
             }
         ],
         yAxis: [
